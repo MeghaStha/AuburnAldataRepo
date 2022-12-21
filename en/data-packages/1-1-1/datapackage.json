@@ -11,90 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "18 to 64 years",
-                "65 years and over",
-                "Under 18 years"
+                "A",
+                "B"
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "Education Attainment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bachelor's Degree or Higher",
-                "High School Graduate",
-                "Less than High School",
-                "Some College or Associate degree"
-              ]
-            },
-            "title": "Education Attainment"
-          },
-          {
-            "name": "Employment Status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Employed (full-time)",
-                "Unemployed",
-                "Worked less than full time"
-              ]
-            },
-            "title": "Employment Status"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "Race",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "American Indian and Alaska Native",
-                "Asian",
-                "Black or African American",
-                "Hispanic or Latino origin (any race)",
-                "White"
-              ]
-            },
-            "title": "Race"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percent by Age",
-                "Percent by Education",
-                "Percent by Gender",
-                "Percent by Race",
-                "Percentage by Employment"
-              ]
-            },
-            "title": "Units"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
