@@ -17,19 +17,84 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Under 18 years",
+                "18 to 64 years",
+                "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black or African American",
+                "American Indian and Alaska Native",
+                "Asian",
+                "Hispanic or Latino origin (any race)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education Attainment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than High School",
+                "High School Graduate",
+                "Some College or Associate degree",
+                "Bachelor's Degree or Higher",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Employment Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employed (full-time)",
+                "Worked less than full time",
+                "Unemployed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent by Age",
+                "Percent by Gender",
+                "Percent by Race",
+                "Percent by Education",
+                "Percentage by Employment",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
