@@ -22,9 +22,8 @@ graph_limits:
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-1-1-title
 graph_titles:
-  -series: Poverty level
-   unit: Percent
-   title: Poverty percent level
+  - unit: Percent
+    title: Poverty percent level
 graph_type: line
 indicator_name: global_indicators.1-1-1-title
 indicator_number: '1.1.1'
