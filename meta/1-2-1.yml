@@ -1,0 +1,100 @@
+SDG_GOAL: >-
+  Goal 1: End poverty in all its forms everywhere
+SDG_TARGET: >-
+  Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
+  currently measured as people living on less than $1.25 a day
+SDG_INDICATOR: >-
+  Indicator 1.2.1: Proportion of population living below the national
+  poverty line, by sex and age
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  ## Definition:
+  
+  The national poverty rate is the percentage of the total population living below the national poverty line.
+    
+  ## Concepts:
+  
+  In assessing poverty in a given country, and how best to reduce poverty according to national definitions,
+  one naturally focuses on a poverty line that is considered appropriate for that country.
+  Poverty lines across countries vary in terms of their purchasing power, and they have a strong economic gradient, 
+  such that richer countries tend to adopt higher standards of living in defining poverty. Within a country, 
+  the cost of living is typically higher in urban areas than in rural areas.
+  
+  ## Rationale:
+  
+  Monitoring national poverty is important for country-specific development agendas. 
+  National poverty lines are used to make more accurate estimates of poverty consistent with the country’s specific economic 
+  and social circumstances and are not intended for international comparisons of poverty rates.
+  
+  ## Limitations:
+  
+  National poverty estimates are derived from household survey data. Caveats and limitations 
+  inherent to survey data applying to the construction of indicator 1.1.1 apply here as well.
+  
+
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
