@@ -1,67 +1,31 @@
-Year,Service Type,Value,,,,,
-2019,Population <18 in Households,19.90%,,,,,
-2019,Have a Computer,19.70%,,,,,
-2019,Have NO Computer,0.20%,,,,,
-2019,Population 18-64 in Households,71.50%,,,,,
-2019,Have a Computer,70.60%,,,,,
-2019,Have NO Computer,0.90%,,,,,
-2019,Population 65+ in Households,8.60%,,,,,
-2019,Have a Computer,7.50%,,,,,
-2019,Have NO Computer,1.10%,,,,,
-2019,With an Internet Subscription,87.10%,,,,,
-2019,Dial-Up Alone,0.30%,,,,,
-2019,Broadband,78.20%,,,,,
-2019,Satellite Service,7.50%,,,,,
-2019,Other Service,0.90%,,,,,
-2019,Internet Access with no Subscription,6.60%,,,,,
-2019,With No Internet Access,6.30%,,,,,
-2019,Drove alone,79.40%,,,,,
-2019,Carpooled,8.90%,,,,,
-2019,Public transportation (excluding taxicab),1.50%,,,,,
-2019,Bus or trolley bus,1.50%,,,,,
-2019,"Light rail, streetcar or trolley",0.00%,,,,,
-2019,Subway or elevated,0.00%,,,,,
-2019,Long-distance/Commuter Train,0.00%,,,,,
-2019,Ferryboat,0.00%,,,,,
-2019,Taxicab,0.10%,,,,,
-2019,Motorcycle,0.20%,,,,,
-2019,Bicycle,0.50%,,,,,
-2019,Walked,4.70%,,,,,
-2019,Other means,0.50%,,,,,
-2019,Worked at home,4.00%,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Year,Service Type,Value
+2019,Population <18 in Households,19.90
+2019,Have a Computer,19.70
+2019,Have NO Computer,0.20
+2019,Population 18-64 in Households,71.50
+2019,Have a Computer,70.60
+2019,Have NO Computer,0.90
+2019,Population 65+ in Households,8.60
+2019,Have a Computer,7.50
+2019,Have NO Computer,1.10
+2019,With an Internet Subscription,87.10
+2019,Dial-Up Alone,0.30
+2019,Broadband,78.20
+2019,Satellite Service,7.50
+2019,Other Service,0.90
+2019,Internet Access with no Subscription,6.60
+2019,With No Internet Access,6.30
+2019,Drove alone,79.40
+2019,Carpooled,8.90
+2019,Public transportation (excluding taxicab),1.50
+2019,Bus or trolley bus,1.50
+2019,"Light rail, streetcar or trolley",0.00
+2019,Subway or elevated,0.00
+2019,Long-distance/Commuter Train,0.00
+2019,Ferryboat,0.00
+2019,Taxicab,0.10
+2019,Motorcycle,0.20
+2019,Bicycle,0.50
+2019,Walked,4.70
+2019,Other means,0.50
+2019,Worked at home,4.00
