@@ -716,71 +716,16 @@
             "title": "Year"
           },
           {
-            "name": "Age",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Under 18 years",
-                "18 to 64 years",
-                "65 years and over",
+                "A",
+                "B",
                 ""
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "Race",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Black or African American",
-                "American Indian and Alaska Native",
-                "Asian",
-                "Hispanic or Latino origin (any race)",
-                ""
-              ]
-            },
-            "title": "Race"
-          },
-          {
-            "name": "Education Attainment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Less than High School",
-                "High School Graduate",
-                "Some College or Associate degree",
-                "Bachelor's Degree or Higher",
-                ""
-              ]
-            },
-            "title": "Education Attainment"
-          },
-          {
-            "name": "Employment Status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Employed (full-time)",
-                "Worked less than full time",
-                "Unemployed",
-                ""
-              ]
-            },
-            "title": "Employment Status"
+            "title": "Group"
           },
           {
             "name": "Units",
@@ -795,7 +740,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
