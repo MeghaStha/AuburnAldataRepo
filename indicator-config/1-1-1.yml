@@ -22,6 +22,11 @@ graph_titles:
   - unit: Percent
     title: Poverty percent level
 graph_type: bar
+graph_types:
+  - unit: Percent
+    type: line
+  - unit: Total
+    type: bar
 indicator_name: global_indicators.1-1-1-title
 indicator_number: '1.1.1'
 national_geographical_coverage: Auburn, AL
