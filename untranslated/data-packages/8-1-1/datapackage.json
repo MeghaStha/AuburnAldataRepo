@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total real gross domestic product in millions of chained 2012 dollars",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

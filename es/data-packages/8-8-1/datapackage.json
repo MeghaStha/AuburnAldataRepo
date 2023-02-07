@@ -12,12 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Injury Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fatal Injury",
+                ""
+              ]
+            },
+            "title": "Injury Type"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

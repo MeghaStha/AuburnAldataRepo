@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Student-teacher ratio",
+                "Percentage of teachers certified",
+                "Teachers with 3 or more years experience",
+                "Full time school counselors",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

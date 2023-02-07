@@ -1,1 +1,67 @@
-Year,Value
+Year,Type of Employement,Units,Value
+2012,Non-farm jobs,Number in thousands,54.48333333
+2013,Non-farm jobs,Number in thousands,56.925
+2014,Non-farm jobs,Number in thousands,58.875
+2015,Non-farm jobs,Number in thousands,60.40833333
+2016,Non-farm jobs,Number in thousands,62.475
+2017,Non-farm jobs,Number in thousands,64.275
+2018,Non-farm jobs,Number in thousands,65.45
+2019,Non-farm jobs,Number in thousands,67.25
+2020,Non-farm jobs,Number in thousands,63.90833333
+2021,Non-farm jobs,Number in thousands,66.61666667
+2022,Non-farm jobs,Number in thousands,68.50833333
+2012,"Mining, Logging, and Construction",Number in thousands,1.916666667
+2013,"Mining, Logging, and Construction",Number in thousands,1.841666667
+2014,"Mining, Logging, and Construction",Number in thousands,1.741666667
+2015,"Mining, Logging, and Construction",Number in thousands,1.85
+2016,"Mining, Logging, and Construction",Number in thousands,2.225
+2017,"Mining, Logging, and Construction",Number in thousands,2.808333333
+2018,"Mining, Logging, and Construction",Number in thousands,2.508333333
+2019,"Mining, Logging, and Construction",Number in thousands,2.683333333
+2020,"Mining, Logging, and Construction",Number in thousands,2.816666667
+2021,"Mining, Logging, and Construction",Number in thousands,2.991666667
+2022,"Mining, Logging, and Construction",Number in thousands,3.258333333
+2012,Leisure and Hospitality,Number in thousands,6.541666667
+2013,Leisure and Hospitality,Number in thousands,6.958333333
+2014,Leisure and Hospitality,Number in thousands,7.091666667
+2015,Leisure and Hospitality,Number in thousands,7.508333333
+2016,Leisure and Hospitality,Number in thousands,7.825
+2017,Leisure and Hospitality,Number in thousands,8.358333333
+2018,Leisure and Hospitality,Number in thousands,8.825
+2019,Leisure and Hospitality,Number in thousands,9.141666667
+2020,Leisure and Hospitality,Number in thousands,7.633333333
+2021,Leisure and Hospitality,Number in thousands,8.283333333
+2022,Leisure and Hospitality,Number in thousands,8.833333333
+2012,"Trade, Transporation, and Utilities",Number in thousands,9.508333333
+2013,"Trade, Transporation, and Utilities",Number in thousands,9.641666667
+2014,"Trade, Transporation, and Utilities",Number in thousands,10.20833333
+2015,"Trade, Transporation, and Utilities",Number in thousands,10.5
+2016,"Trade, Transporation, and Utilities",Number in thousands,10.89166667
+2017,"Trade, Transporation, and Utilities",Number in thousands,11.26666667
+2018,"Trade, Transporation, and Utilities",Number in thousands,11.85833333
+2019,"Trade, Transporation, and Utilities",Number in thousands,12.48333333
+2020,"Trade, Transporation, and Utilities",Number in thousands,12.43333333
+2021,"Trade, Transporation, and Utilities",Number in thousands,13.04166667
+2022,"Trade, Transporation, and Utilities",Number in thousands,13.425
+2012,Manufacturing,Number in thousands,5.55
+2013,Manufacturing,Number in thousands,6.1
+2014,Manufacturing,Number in thousands,6.45
+2015,Manufacturing,Number in thousands,6.758333333
+2016,Manufacturing,Number in thousands,6.966666667
+2017,Manufacturing,Number in thousands,6.925
+2018,Manufacturing,Number in thousands,6.583333333
+2019,Manufacturing,Number in thousands,6.3
+2020,Manufacturing,Number in thousands,6.05
+2021,Manufacturing,Number in thousands,6.533333333
+2022,Manufacturing,Number in thousands,6.608333333
+2012,Other Services,Number in thousands,2.05
+2013,Other Services,Number in thousands,2.075
+2014,Other Services,Number in thousands,2.1
+2015,Other Services,Number in thousands,2.166666667
+2016,Other Services,Number in thousands,2.208333333
+2017,Other Services,Number in thousands,2.291666667
+2018,Other Services,Number in thousands,2.4
+2019,Other Services,Number in thousands,2.65
+2020,Other Services,Number in thousands,2.35
+2021,Other Services,Number in thousands,2.45
+2022,Other Services,Number in thousands,2.55

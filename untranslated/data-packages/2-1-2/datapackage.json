@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Overall by county",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage by county",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 1 hour",
+                "Under 1 day",
+                "1-6 days",
+                "7-27 days",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent of Infant Deaths with preterm births",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

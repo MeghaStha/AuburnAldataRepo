@@ -11,14 +11,28 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Student-teacher ratio",
+                "Percentage of teachers certified",
+                "Teachers with 3 or more years experience",
+                "Full time school counselors",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
           }
         ]
       }

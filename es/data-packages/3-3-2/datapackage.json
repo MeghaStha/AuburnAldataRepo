@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Case by county",
+                "Rate per 100,000 by county",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

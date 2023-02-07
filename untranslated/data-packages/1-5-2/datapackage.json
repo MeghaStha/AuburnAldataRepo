@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "End",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1999",
+                "2009",
+                "2017",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

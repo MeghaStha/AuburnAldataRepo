@@ -1,1 +1,57 @@
-Year,Value
+Year,Age,Gender,Units,Value
+2013,,,Percent by Age,24.76
+2013,Under 18 years,,Percent by Age,2.47
+2013,18 to 64 years,,Percent by Age,22.17
+2013,65 years and over,,Percent by Age,0.13
+2013,,,Percent by Gender,24.58
+2013,,Male,Percent by Gender,12.81
+2013,,Female,Percent by Gender,11.78
+2014,,,Percent by Age,27.72
+2014,Under 18 years,,Percent by Age,2.91
+2014,18 to 64 years,,Percent by Age,24.63
+2014,65 years and over,,Percent by Age,0.18
+2014,,,Percent by Gender,27.39
+2014,,Male,Percent by Gender,13.91
+2014,,Female,Percent by Gender,13.48
+2015,,,Percent by Age,29.11
+2015,Under 18 years,,Percent by Age,3.57
+2015,18 to 64 years,,Percent by Age,25.31
+2015,65 years and over,,Percent by Age,0.23
+2015,,,Percent by Gender,28.68
+2015,,Male,Percent by Gender,14.31
+2015,,Female,Percent by Gender,14.37
+2016,,,Percent by Age,29.01
+2016,Under 18 years,,Percent by Age,3.73
+2016,18 to 64 years,,Percent by Age,25.04
+2016,65 years and over,,Percent by Age,0.24
+2016,,,Percent by Gender,28.46
+2016,,Male,Percent by Gender,14.18
+2016,,Female,Percent by Gender,14.28
+2017,,,Percent by Age,27.67
+2017,Under 18 years,,Percent by Age,3.87
+2017,18 to 64 years,,Percent by Age,23.47
+2017,65 years and over,,Percent by Age,0.33
+2017,,,Percent by Gender,27.67
+2017,,Male,Percent by Gender,13.49
+2017,,Female,Percent by Gender,14.18
+2018,,,Percent by Age,28.03
+2018,Under 18 years,,Percent by Age,3.61
+2018,18 to 64 years,,Percent by Age,24.1
+2018,65 years and over,,Percent by Age,0.31
+2018,,,Percent by Gender,28.03
+2018,,Male,Percent by Gender,14.07
+2018,,Female,Percent by Gender,13.96
+2019,,,Percent by Age,26.68
+2019,Under 18 years,,Percent by Age,3.27
+2019,18 to 64 years,,Percent by Age,22.94
+2019,65 years and over,,Percent by Age,0.47
+2019,,,Percent by Gender,26.68
+2019,,Male,Percent by Gender,13.85
+2019,,Female,Percent by Gender,12.83
+2020,,,Percent by Age,26.32
+2020,Under 18 years,,Percent by Age,2.49
+2020,18 to 64 years,,Percent by Age,22.9
+2020,65 years and over,,Percent by Age,0.94
+2020,,,Percent by Gender,26.32
+2020,,Male,Percent by Gender,13.18
+2020,,Female,Percent by Gender,13.14

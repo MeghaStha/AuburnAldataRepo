@@ -1,1 +1,33 @@
-Year,Value
+Year, Source Years,Unit,Value
+2014,2011,Patient to Primary Care Physician Ratio,2141
+2014,2012,Patient to Dentist Ratio,3609
+2014,2013,Patient to Mental Health Provider Ratio,2197
+2014,2013,Other Primary Care Providers,3133
+2015,2012,Patient to Primary Care Physician Ratio,2231
+2015,2013,Patient to Dentist Ratio,3510
+2015,2014,Patient to Mental Health Provider Ratio,1437
+2015,2014,Other Primary Care Providers,2795
+2016,2013,Patient to Primary Care Physician Ratio,2187
+2016,2014,Patient to Dentist Ratio,3587
+2016,2015,Patient to Mental Health Provider Ratio,1285
+2016,2015,Other Primary Care Providers,2614
+2017,2014,Patient to Primary Care Physician Ratio,2085
+2017,2015,Patient to Dentist Ratio,3413
+2017,2016,Patient to Mental Health Provider Ratio,1402
+2017,2016,Other Primary Care Providers,2453
+2018,2015,Patient to Primary Care Physician Ratio,2013
+2018,2016,Patient to Dentist Ratio,3383
+2018,2017,Patient to Mental Health Provider Ratio,1272
+2018,2017,Other Primary Care Providers,2120
+2019,2016,Patient to Primary Care Physician Ratio,1939
+2019,2017,Patient to Dentist Ratio,3367
+2019,2018,Patient to Mental Health Provider Ratio,1234
+2019,2018,Other Primary Care Providers,1924
+2020,2017,Patient to Primary Care Physician Ratio,1901
+2020,2018,Patient to Dentist Ratio,3346
+2020,2019,Patient to Mental Health Provider Ratio,1163
+2020,2019,Other Primary Care Providers,1744
+2021,2018,Patient to Primary Care Physician Ratio,1952
+2021,2019,Patient to Dentist Ratio,3047
+2021,2020,Patient to Mental Health Provider Ratio,1068
+2021,2020,Other Primary Care Providers,1469

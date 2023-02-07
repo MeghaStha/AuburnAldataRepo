@@ -12,8 +12,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black",
+                "American Indian",
+                "Asian",
+                "Hispanic",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-64",
+                "65 and over",
+                ""
+              ]
+            },
+            "title": "Age Group"
           },
           {
             "name": "Value",

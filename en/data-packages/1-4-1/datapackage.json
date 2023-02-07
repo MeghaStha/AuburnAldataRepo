@@ -11,14 +11,50 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Service Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population <18 in Households",
+                "Have a Computer",
+                "Have NO Computer",
+                "Population 18-64 in Households",
+                "Population 65+ in Households",
+                "With an Internet Subscription",
+                "Dial-Up Alone",
+                "Broadband",
+                "Satellite Service",
+                "Other Service",
+                "Internet Access with no Subscription",
+                "With No Internet Access",
+                "Drove alone",
+                "Carpooled",
+                "Public transportation (excluding taxicab)",
+                "Bus or trolley bus",
+                "Light rail, streetcar or trolley",
+                "Subway or elevated",
+                "Long-distance/Commuter Train",
+                "Ferryboat",
+                "Taxicab",
+                "Motorcycle",
+                "Bicycle",
+                "Walked",
+                "Other means",
+                "Worked at home",
+                ""
+              ]
+            },
+            "title": "Service Type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
           }
         ]
       }

@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "High school youth with any tobacco product",
+                "High school youth with cigarette",
+                "Total adults with tobacco",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

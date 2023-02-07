@@ -12,8 +12,62 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, all occupations",
+                "Management",
+                "Business and financial operations",
+                "Computer and mathematical",
+                "Architecture and engineering",
+                "Life, physical, and social science",
+                "Community and social service",
+                "Legal",
+                "Educational instruction and library",
+                "Arts, design, entertainment, sports, and media",
+                "Healthcare practitioners and technical",
+                "Healthcare support",
+                "Protective service",
+                "Food preparation and serving related",
+                "Building and grounds cleaning and maintenance",
+                "Personal care and service",
+                "Sales and related",
+                "Office and administrative support",
+                "Farming, fishing, and forestry",
+                "Construction and extraction",
+                "Installation, maintenance, and repair",
+                "Production",
+                "Transportation and material moving",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mean hourly wages indollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Unnamed: 4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
           },
           {
             "name": "Value",

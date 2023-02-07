@@ -12,12 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": " Source Years",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                ""
+              ]
+            },
+            "title": " Source Years"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Patient to Primary Care Physician Ratio",
+                "Patient to Dentist Ratio",
+                "Patient to Mental Health Provider Ratio",
+                "Other Primary Care Providers",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

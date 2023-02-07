@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Employement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-farm jobs",
+                "Mining, Logging, and Construction",
+                "Leisure and Hospitality",
+                "Trade, Transporation, and Utilities",
+                "Manufacturing",
+                "Other Services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number in thousands",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
