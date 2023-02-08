@@ -1,11 +1,12 @@
-SDG_GOAL: 1 End poverty
-SDG_TARGET: >- 
-1.2 By 2030, reduce at least by half the proportion of men,
-women and children of all ages living in poverty in all its
-dimensions according to national definitions
+SDG_GOAL: >-
+  Goal 1: End poverty in all its forms everywhere
+SDG_TARGET: >-
+  Target 1.1: By 2030, reduce at least by half the proportion of men,
+  women and children of all ages living in poverty in all its
+  dimensions according to national definitions
 SDG_INDICATOR: >-
-1.2.2 Proportion of men, women and children of all ages
-living in poverty in all its dimensions according to national
-definitions
+  Indicator 1.2.1: Proportion of men, women and children of all ages
+  living in poverty in all its dimensions according to national
+  definitions
 UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: UrbanPrism
