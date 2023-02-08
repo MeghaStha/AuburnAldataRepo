@@ -35,5 +35,5 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-standalone: false
+standalone: true
 tags: []
