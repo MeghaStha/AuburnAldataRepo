@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Service Type",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

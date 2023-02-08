@@ -18,7 +18,7 @@
             "title": "Year"
           },
           {
-            "name": "Service Type",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Service Type"
+            "title": "Units"
           },
           {
             "name": "Value",
