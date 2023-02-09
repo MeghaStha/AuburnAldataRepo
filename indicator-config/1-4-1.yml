@@ -25,7 +25,7 @@ graph_titles:
 graph_type: bar
 graph_types:
   - unit: Percent
-    type: line
+    type: bar
   - unit: Total
     type: bar
 indicator_name: global_indicators.1-4-1-title
