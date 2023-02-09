@@ -1,2 +1,2 @@
-Year,Injury Type,Value
-2020,Fatal Injury,1
+Year,Injury Type,Units,Value
+2020,Fatal Injury,Count,1
