@@ -1,18 +1,15 @@
 SDG_GOAL: >-
   Goal 1: End poverty in all its forms everywhere
 SDG_TARGET: >-
-  Target 1.2: By 2030, reduce at least by half the proportion of men,
+  Target 1.1: By 2030, reduce at least by half the proportion of men,
   women and children of all ages living in poverty in all its
   dimensions according to national definitions
 SDG_INDICATOR: >-
-  Indicator 1.2.1: Proportion of men, women and children of all ages
-  living in poverty in all its dimensions according to national
-  definitions
-
+  Indicator 1.4.2: Proportion of total adult household units with different type of occupancy - modified
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
-  2022-11-22
+
 SDG_RELATED_INDICATORS: >-
 
 SDG_CUSTODIAN_AGENCIES: >-
@@ -32,18 +29,16 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  ## Definition:
-  
-  The national poverty rate is the percentage of the total population living below the national poverty status.
-    
   ## Concepts:
-  The Census Bureau records poverty status by houshold type and ratio of income to poverty level. 
+
+  Auburn reports houshold occupancy as owner, renter, and vacant. This data is using this as a proxy measure to report the land rights. 
   
-UNIT_MEASURE: Percentage
+UNIT_MEASURE: >-
+  Percentage
 
 CLASS_SYSTEM: >-
 
-SOURCE_TYPE: American Community Survey
+SOURCE_TYPE: >-
 
 COLL_METHOD: >-
 
@@ -51,7 +46,7 @@ FREQ_COLL: >-
 
 REL_CAL_POLICY: >-
 
-DATA_SOURCE: US Census Bureau
+DATA_SOURCE: >-
 
 COMPILING_ORG: >-
 
@@ -79,7 +74,8 @@ QUALITY_ASSURE: >-
 
 QUALITY_ASSMNT: >-
 
-COVERAGE: Auburn, Al
+COVERAGE: >-
+  Auburn, Al
 
 COMPARABILITY: >-
 

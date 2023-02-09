@@ -1,0 +1,82 @@
+SDG_GOAL: >-
+  Goal 1: End poverty in all its forms everywhere
+SDG_TARGET: >-
+  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure 
+  and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+SDG_INDICATOR: >-
+  Indicator 1.5.2: Direct economic loss attributed to disasters in relation to global gross domestic product (GDP) - modified by state
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  ## Limitations:
+  
+  The economic loss is not reported by city so had to be modified to report by state. The data is also not reported in relation to GDP so it is reported in 
+  millions in 100k.
+  
+UNIT_MEASURE: >-
+  Millions in 100k
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Auburn, Al
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

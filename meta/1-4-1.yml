@@ -1,18 +1,16 @@
 SDG_GOAL: >-
   Goal 1: End poverty in all its forms everywhere
 SDG_TARGET: >-
-  Target 1.2: By 2030, reduce at least by half the proportion of men,
-  women and children of all ages living in poverty in all its
-  dimensions according to national definitions
+  Target 1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+  have equal rights to economic resources, as well as access to basic services, ownership and control 
+  over land and other forms of property, inheritance, natural resources, appropriate new technology and 
+  financial services, including microfinance
 SDG_INDICATOR: >-
-  Indicator 1.2.1: Proportion of men, women and children of all ages
-  living in poverty in all its dimensions according to national
-  definitions
-
+  Indicator 1.4.1: Proportion of population living in households with access to basic services
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
-  2022-11-22
+
 SDG_RELATED_INDICATORS: >-
 
 SDG_CUSTODIAN_AGENCIES: >-
@@ -33,17 +31,14 @@ CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
   ## Definition:
+  In Auburn there are proxy indicators that are reported to access the househols access to basic needs.
   
-  The national poverty rate is the percentage of the total population living below the national poverty status.
-    
-  ## Concepts:
-  The Census Bureau records poverty status by houshold type and ratio of income to poverty level. 
-  
-UNIT_MEASURE: Percentage
+UNIT_MEASURE: >-
+  Percentage
 
 CLASS_SYSTEM: >-
 
-SOURCE_TYPE: American Community Survey
+SOURCE_TYPE: >-
 
 COLL_METHOD: >-
 
@@ -51,7 +46,7 @@ FREQ_COLL: >-
 
 REL_CAL_POLICY: >-
 
-DATA_SOURCE: US Census Bureau
+DATA_SOURCE: >-
 
 COMPILING_ORG: >-
 
@@ -79,7 +74,8 @@ QUALITY_ASSURE: >-
 
 QUALITY_ASSMNT: >-
 
-COVERAGE: Auburn, Al
+COVERAGE: >-
+  Auburn, Al
 
 COMPARABILITY: >-
 
