@@ -2,6 +2,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"Gender, Age, Race, Education Attainment, Employment Status",5
 #1-2-1,"Gender, Age",2
 #1-2-2,"Household, Ratio",2
+#1-4-1,"Population, Service Type",2
 #1-4-2,Group,1
 #1-5-1,End,1
 #1-5-2,End,1

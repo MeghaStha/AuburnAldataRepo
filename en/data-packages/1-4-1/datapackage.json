@@ -16,15 +16,27 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Population",
             "type": "string",
             "constraints": {
               "enum": [
                 "Population <18 in Households",
-                "Have a Computer",
-                "Have NO Computer",
                 "Population 18-64 in Households",
                 "Population 65+ in Households",
+                "Total population",
+                "Population >16 years who works",
+                ""
+              ]
+            },
+            "title": "Population"
+          },
+          {
+            "name": "Service Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Have a Computer",
+                "Have NO Computer",
                 "With an Internet Subscription",
                 "Dial-Up Alone",
                 "Broadband",
@@ -46,6 +58,17 @@
                 "Walked",
                 "Other means",
                 "Worked at home",
+                ""
+              ]
+            },
+            "title": "Service Type"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
                 ""
               ]
             },
