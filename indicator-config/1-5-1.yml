@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Numerical
+computation_units: Count
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -20,11 +20,11 @@ graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-5-1-title
 graph_titles: []
 graph_titles:
-  - unit: Number
+  - unit: Count
     title: Death Number
 graph_type: bar
 graph_types:
-  - unit: Number
+  - unit: Count
     type: line
   - unit: Total
     type: bar
@@ -36,5 +36,5 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-standalone: true
+standalone: false
 tags: []
