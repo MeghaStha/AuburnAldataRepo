@@ -1,2 +1,9 @@
 Disaggregation,Number of indicators,Number of values
+Age,1,4
 End,2,1
+Gender,1,2
+Group,2,6
+Health Coverage,1,8
+Health Insurance by Gender and Age,1,212
+Race,5,4
+Status,1,1
