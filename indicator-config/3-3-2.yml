@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: Numerical
+computation_units: Count
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -36,5 +36,5 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
-standalone: true
+standalone: false
 tags: []
