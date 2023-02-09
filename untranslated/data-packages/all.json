@@ -1958,6 +1958,16 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions in 100k dollars",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

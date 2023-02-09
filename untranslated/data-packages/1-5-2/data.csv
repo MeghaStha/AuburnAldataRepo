@@ -1,4 +1,4 @@
-Year,End,Value
-1990,1999,16.1
-2000,2009,2.6
-2010,2017,1.1
+Year,End,Units,Value
+1990,1999,Millions in 100k dollars,16.1
+2000,2009,Millions in 100k dollars,2.6
+2010,2017,Millions in 100k dollars,1.1
