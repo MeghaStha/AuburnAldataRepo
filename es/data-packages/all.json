@@ -60,7 +60,7 @@
           }
         ]
       },
-      "title": "1-4-1"
+      "title": "Proporción de la población que vive en hogares con acceso a los servicios básicos"
     },
     {
       "path": "6-a-1/data.csv",
@@ -96,7 +96,7 @@
           }
         ]
       },
-      "title": "6-a-1"
+      "title": "Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno"
     },
     {
       "path": "4-5-1/data.csv",
@@ -132,7 +132,7 @@
           }
         ]
       },
-      "title": "4-5-1"
+      "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
     },
     {
       "path": "6-1-1/data.csv",
@@ -156,7 +156,7 @@
           }
         ]
       },
-      "title": "6-1-1"
+      "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
     },
     {
       "path": "1-a-2/data.csv",
@@ -192,7 +192,7 @@
           }
         ]
       },
-      "title": "1-a-2"
+      "title": "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
     },
     {
       "path": "4-6-1/data.csv",
@@ -238,7 +238,7 @@
           }
         ]
       },
-      "title": "4-6-1"
+      "title": "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo"
     },
     {
       "path": "3-3-4/data.csv",
@@ -273,7 +273,7 @@
           }
         ]
       },
-      "title": "3-3-4"
+      "title": "Incidencia de la hepatitis B por cada 100.000 habitantes"
     },
     {
       "path": "8-10-2/data.csv",
@@ -309,7 +309,7 @@
           }
         ]
       },
-      "title": "8-10-2"
+      "title": "Proporción de adultos (a partir de 15 años de edad) que tienen una cuenta en un banco u otra institución financiera o un proveedor de servicios de dinero móvil"
     },
     {
       "path": "4-1-1/data.csv",
@@ -356,7 +356,7 @@
           }
         ]
       },
-      "title": "4-1-1"
+      "title": "Proporción de niños, niñas y adolescentes que, a) en los cursos segundo y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo"
     },
     {
       "path": "3-9-1/data.csv",
@@ -392,7 +392,7 @@
           }
         ]
       },
-      "title": "3-9-1"
+      "title": "Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente"
     },
     {
       "path": "3-8-1/data.csv",
@@ -693,7 +693,7 @@
           }
         ]
       },
-      "title": "3-8-1"
+      "title": "Cobertura de los servicios de salud esenciales"
     },
     {
       "path": "1-1-1/data.csv",
@@ -799,7 +799,7 @@
           }
         ]
       },
-      "title": "1-1-1"
+      "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)"
     },
     {
       "path": "2-2-3/data.csv",
@@ -845,7 +845,7 @@
           }
         ]
       },
-      "title": "2-2-3"
+      "title": "Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (porcentaje)"
     },
     {
       "path": "6-5-1/data.csv",
@@ -881,7 +881,7 @@
           }
         ]
       },
-      "title": "6-5-1"
+      "title": "Grado de gestión integrada de los recursos hídricos"
     },
     {
       "path": "1-3-1/data.csv",
@@ -917,7 +917,7 @@
           }
         ]
       },
-      "title": "1-3-1"
+      "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables"
     },
     {
       "path": "8-6-1/data.csv",
@@ -953,7 +953,7 @@
           }
         ]
       },
-      "title": "8-6-1"
+      "title": "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación"
     },
     {
       "path": "3-4-2/data.csv",
@@ -1001,7 +1001,7 @@
           }
         ]
       },
-      "title": "3-4-2"
+      "title": "Tasa de mortalidad por suicidio"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1036,7 +1036,7 @@
           }
         ]
       },
-      "title": "2-1-2"
+      "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria"
     },
     {
       "path": "7-b-1/data.csv",
@@ -1072,7 +1072,7 @@
           }
         ]
       },
-      "title": "7-b-1"
+      "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
     },
     {
       "path": "4-4-1/data.csv",
@@ -1108,7 +1108,7 @@
           }
         ]
       },
-      "title": "4-4-1"
+      "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
     },
     {
       "path": "8-3-1/data.csv",
@@ -1159,7 +1159,7 @@
           }
         ]
       },
-      "title": "8-3-1"
+      "title": "Proporción de empleo informal con respecto al empleo total, desglosada por sector y sexo"
     },
     {
       "path": "3-7-2/data.csv",
@@ -1207,7 +1207,7 @@
           }
         ]
       },
-      "title": "3-7-2"
+      "title": "Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años) por cada 1.000 mujeres de ese grupo de edad"
     },
     {
       "path": "8-8-1/data.csv",
@@ -1253,7 +1253,7 @@
           }
         ]
       },
-      "title": "8-8-1"
+      "title": "Lesiones ocupacionales mortales y no mortales por cada 100.000 trabajadores, desglosadas por sexo y estatus migratorio"
     },
     {
       "path": "3-7-1/data.csv",
@@ -1289,7 +1289,7 @@
           }
         ]
       },
-      "title": "3-7-1"
+      "title": "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
     },
     {
       "path": "1-2-1/data.csv",
@@ -1350,7 +1350,7 @@
           }
         ]
       },
-      "title": "1-2-1"
+      "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1386,7 +1386,7 @@
           }
         ]
       },
-      "title": "3-9-3"
+      "title": "Tasa de mortalidad atribuida a intoxicaciones involuntarias"
     },
     {
       "path": "3-2-2/data.csv",
@@ -1435,7 +1435,7 @@
           }
         ]
       },
-      "title": "3-2-2"
+      "title": "Tasa de mortalidad neonatal"
     },
     {
       "path": "6-5-2/data.csv",
@@ -1471,7 +1471,7 @@
           }
         ]
       },
-      "title": "6-5-2"
+      "title": "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
     },
     {
       "path": "4-7-1/data.csv",
@@ -1507,7 +1507,7 @@
           }
         ]
       },
-      "title": "4-7-1"
+      "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1555,7 +1555,7 @@
           }
         ]
       },
-      "title": "3-4-1"
+      "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas"
     },
     {
       "path": "3-5-2/data.csv",
@@ -1590,7 +1590,7 @@
           }
         ]
       },
-      "title": "3-5-2"
+      "title": "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil en litros de alcohol puro"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1638,7 +1638,7 @@
           }
         ]
       },
-      "title": "1-4-2"
+      "title": "Proporción del total de la población adulta con derechos seguros de tenencia de la tierra: a) que posee documentación reconocida legalmente al respecto y b) considera seguros sus derechos, desglosada por sexo y tipo de tenencia"
     },
     {
       "path": "1-b-1/data.csv",
@@ -1674,7 +1674,7 @@
           }
         ]
       },
-      "title": "1-b-1"
+      "title": "Gasto público social en favor de los pobres"
     },
     {
       "path": "4-c-1/data.csv",
@@ -1712,7 +1712,7 @@
           }
         ]
       },
-      "title": "4-c-1"
+      "title": "Proporción de docentes con las calificaciones mínimas requeridas, por nivel educativo"
     },
     {
       "path": "3-b-3/data.csv",
@@ -1748,7 +1748,7 @@
           }
         ]
       },
-      "title": "3-b-3"
+      "title": "Proporción de centros de salud que disponen de un conjunto básico de medicamentos esenciales asequibles de manera sostenible"
     },
     {
       "path": "1-2-2/data.csv",
@@ -1819,7 +1819,7 @@
           }
         ]
       },
-      "title": "1-2-2"
+      "title": "Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales"
     },
     {
       "path": "3-3-2/data.csv",
@@ -1855,7 +1855,7 @@
           }
         ]
       },
-      "title": "3-3-2"
+      "title": "Incidencia de la tuberculosis por cada 100.000 habitantes"
     },
     {
       "path": "3-2-1/data.csv",
@@ -1902,7 +1902,7 @@
           }
         ]
       },
-      "title": "3-2-1"
+      "title": "Tasa de mortalidad de niños menores de 5 años"
     },
     {
       "path": "4-2-1/data.csv",
@@ -1938,7 +1938,7 @@
           }
         ]
       },
-      "title": "4-2-1"
+      "title": "Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo"
     },
     {
       "path": "8-7-1/data.csv",
@@ -1986,7 +1986,7 @@
           }
         ]
       },
-      "title": "8-7-1"
+      "title": "Proporción y número de niños de entre 5 y 17 años que realizan trabajo infantil, desglosados por sexo y edad"
     },
     {
       "path": "7-2-1/data.csv",
@@ -2022,7 +2022,7 @@
           }
         ]
       },
-      "title": "7-2-1"
+      "title": "Proporción de energía renovable en el consumo final total de energía"
     },
     {
       "path": "3-b-2/data.csv",
@@ -2058,7 +2058,7 @@
           }
         ]
       },
-      "title": "3-b-2"
+      "title": "Total neto de asistencia oficial para el desarrollo destinado a los sectores de la investigación médica y la atención sanitaria básica"
     },
     {
       "path": "1-5-2/data.csv",
@@ -2095,7 +2095,7 @@
           }
         ]
       },
-      "title": "1-5-2"
+      "title": "Pérdidas económicas directas atribuidas a los desastres en relación con el producto interno bruto (PIB) mundial"
     },
     {
       "path": "7-a-1/data.csv",
@@ -2131,7 +2131,7 @@
           }
         ]
       },
-      "title": "7-a-1"
+      "title": "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos"
     },
     {
       "path": "3-1-2/data.csv",
@@ -2167,7 +2167,7 @@
           }
         ]
       },
-      "title": "3-1-2"
+      "title": "Proporción de partos atendidos por personal sanitario especializado"
     },
     {
       "path": "4-a-1/data.csv",
@@ -2203,7 +2203,7 @@
           }
         ]
       },
-      "title": "4-a-1"
+      "title": "Proporción de escuelas que ofrecen servicios básicos, desglosada por tipo de servicio"
     },
     {
       "path": "8-4-1/data.csv",
@@ -2239,7 +2239,7 @@
           }
         ]
       },
-      "title": "8-4-1"
+      "title": "Huella material en términos absolutos, huella material per cápita y huella material por PIB"
     },
     {
       "path": "3-3-3/data.csv",
@@ -2275,7 +2275,7 @@
           }
         ]
       },
-      "title": "3-3-3"
+      "title": "Incidencia de la malaria por cada 1.000 habitantes"
     },
     {
       "path": "1-5-1/data.csv",
@@ -2324,7 +2324,7 @@
           }
         ]
       },
-      "title": "1-5-1"
+      "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 habitantes"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2360,7 +2360,7 @@
           }
         ]
       },
-      "title": "8-2-1"
+      "title": "Tasa de crecimiento anual del PIB real por persona empleada"
     },
     {
       "path": "2-3-1/data.csv",
@@ -2396,7 +2396,7 @@
           }
         ]
       },
-      "title": "2-3-1"
+      "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)"
     },
     {
       "path": "6-2-1/data.csv",
@@ -2432,7 +2432,7 @@
           }
         ]
       },
-      "title": "6-2-1"
+      "title": "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón"
     },
     {
       "path": "8-4-2/data.csv",
@@ -2478,7 +2478,7 @@
           }
         ]
       },
-      "title": "8-4-2"
+      "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
     },
     {
       "path": "7-1-2/data.csv",
@@ -2514,7 +2514,7 @@
           }
         ]
       },
-      "title": "7-1-2"
+      "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios"
     },
     {
       "path": "8-1-1/data.csv",
@@ -2549,7 +2549,7 @@
           }
         ]
       },
-      "title": "8-1-1"
+      "title": "Tasa de crecimiento anual del PIB real per cápita"
     },
     {
       "path": "8-5-1/data.csv",
@@ -2627,7 +2627,7 @@
           }
         ]
       },
-      "title": "8-5-1"
+      "title": "Ingreso medio por hora de las personas empleadas, desglosado por sexo, edad, ocupación y personas con discapacidad"
     },
     {
       "path": "6-4-2/data.csv",
@@ -2662,7 +2662,7 @@
           }
         ]
       },
-      "title": "6-4-2"
+      "title": "Nivel de estrés hídrico: extracción de agua dulce en proporción a los recursos de agua dulce disponibles"
     },
     {
       "path": "7-3-1/data.csv",
@@ -2698,7 +2698,7 @@
           }
         ]
       },
-      "title": "7-3-1"
+      "title": "Intensidad energética medida en función de la energía primaria y el PIB"
     },
     {
       "path": "2-2-2/data.csv",
@@ -2746,7 +2746,7 @@
           }
         ]
       },
-      "title": "2-2-2"
+      "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)"
     },
     {
       "path": "1-5-3/data.csv",
@@ -2782,7 +2782,7 @@
           }
         ]
       },
-      "title": "1-5-3"
+      "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
     },
     {
       "path": "3-3-5/data.csv",
@@ -2818,7 +2818,7 @@
           }
         ]
       },
-      "title": "3-3-5"
+      "title": "Número de personas que requieren intervenciones contra enfermedades tropicales desatendidas"
     },
     {
       "path": "4-2-2/data.csv",
@@ -2853,7 +2853,7 @@
           }
         ]
       },
-      "title": "4-2-2"
+      "title": "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo"
     },
     {
       "path": "6-4-1/data.csv",
@@ -2889,7 +2889,7 @@
           }
         ]
       },
-      "title": "6-4-1"
+      "title": "Cambio en el uso eficiente de los recursos hídricos con el paso del tiempo"
     },
     {
       "path": "1-5-4/data.csv",
@@ -2925,7 +2925,7 @@
           }
         ]
       },
-      "title": "1-5-4"
+      "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
     },
     {
       "path": "1-a-1/data.csv",
@@ -2961,7 +2961,7 @@
           }
         ]
       },
-      "title": "1-a-1"
+      "title": "Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor"
     },
     {
       "path": "2-2-1/data.csv",
@@ -2997,7 +2997,7 @@
           }
         ]
       },
-      "title": "2-2-1"
+      "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años"
     },
     {
       "path": "3-3-1/data.csv",
@@ -3034,7 +3034,7 @@
           }
         ]
       },
-      "title": "3-3-1"
+      "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3070,7 +3070,7 @@
           }
         ]
       },
-      "title": "3-5-1"
+      "title": "Cobertura de los tratamientos(farmacológicos y psicosociales y servicios de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas"
     },
     {
       "path": "8-b-1/data.csv",
@@ -3106,7 +3106,7 @@
           }
         ]
       },
-      "title": "8-b-1"
+      "title": "Existencia de una estrategia nacional organizada y en marcha para el empleo de los jóvenes, como estrategia independiente o como parte de una estrategia nacional de empleo"
     },
     {
       "path": "6-b-1/data.csv",
@@ -3142,7 +3142,7 @@
           }
         ]
       },
-      "title": "6-b-1"
+      "title": "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua y el saneamiento"
     },
     {
       "path": "8-5-2/data.csv",
@@ -3177,7 +3177,7 @@
           }
         ]
       },
-      "title": "8-5-2"
+      "title": "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
     },
     {
       "path": "8-10-1/data.csv",
@@ -3212,7 +3212,7 @@
           }
         ]
       },
-      "title": "8-10-1"
+      "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos"
     },
     {
       "path": "2-1-1/data.csv",
@@ -3248,7 +3248,7 @@
           }
         ]
       },
-      "title": "2-1-1"
+      "title": "Prevalencia de la subalimentación"
     },
     {
       "path": "4-1-2/data.csv",
@@ -3294,7 +3294,7 @@
           }
         ]
       },
-      "title": "4-1-2"
+      "title": "Índice de finalización (enseñanza primaria, primer ciclo de enseñanza secundaria y segundo ciclo de enseñanza secundaria)"
     },
     {
       "path": "6-3-1/data.csv",
@@ -3318,7 +3318,7 @@
           }
         ]
       },
-      "title": "6-3-1"
+      "title": "Proporción de los flujos de aguas residuales domésticas e industriales tratados de manera adecuada"
     },
     {
       "path": "3-b-1/data.csv",
@@ -3364,7 +3364,7 @@
           }
         ]
       },
-      "title": "3-b-1"
+      "title": "Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional"
     },
     {
       "path": "2-4-1/data.csv",
@@ -3400,7 +3400,7 @@
           }
         ]
       },
-      "title": "2-4-1"
+      "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
     },
     {
       "path": "3-1-1/data.csv",
@@ -3435,7 +3435,7 @@
           }
         ]
       },
-      "title": "3-1-1"
+      "title": "Tasa de mortalidad materna"
     },
     {
       "path": "4-b-1/data.csv",
@@ -3471,7 +3471,7 @@
           }
         ]
       },
-      "title": "4-b-1"
+      "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
     },
     {
       "path": "4-3-1/data.csv",
@@ -3548,7 +3548,7 @@
           }
         ]
       },
-      "title": "4-3-1"
+      "title": "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo"
     },
     {
       "path": "6-3-2/data.csv",
@@ -3584,7 +3584,7 @@
           }
         ]
       },
-      "title": "6-3-2"
+      "title": "Proporción de masas de agua de buena calidad"
     },
     {
       "path": "2-3-2/data.csv",
@@ -3618,7 +3618,7 @@
           }
         ]
       },
-      "title": "2-3-2"
+      "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena"
     },
     {
       "path": "8-8-2/data.csv",
@@ -3654,7 +3654,7 @@
           }
         ]
       },
-      "title": "8-8-2"
+      "title": "Nivel de cumplimiento nacional de los derechos laborales (libertad de asociación y negociación colectiva) con arreglo a las fuentes textuales de la Organización Internacional del Trabajo (OIT) y la legislación interna, desglosado por sexo y estatus migratorio"
     },
     {
       "path": "3-8-2/data.csv",
@@ -3690,7 +3690,7 @@
           }
         ]
       },
-      "title": "3-8-2"
+      "title": "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gastos o ingresos de los hogares"
     },
     {
       "path": "8-9-1/data.csv",
@@ -3726,7 +3726,7 @@
           }
         ]
       },
-      "title": "8-9-1"
+      "title": "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
     },
     {
       "path": "3-c-1/data.csv",
@@ -3784,7 +3784,7 @@
           }
         ]
       },
-      "title": "3-c-1"
+      "title": "Densidad y distribución del personal sanitario"
     },
     {
       "path": "3-6-1/data.csv",
@@ -3819,7 +3819,7 @@
           }
         ]
       },
-      "title": "3-6-1"
+      "title": "Tasa de mortalidad por lesiones debidas a accidentes de tráfico"
     },
     {
       "path": "3-d-2/data.csv",
@@ -3881,7 +3881,7 @@
           }
         ]
       },
-      "title": "3-d-2"
+      "title": "Porcentaje de infecciones del torrente sanguíneo debidas a determinados organismos resistentes a los antimicrobianos seleccionados"
     },
     {
       "path": "3-9-2/data.csv",
@@ -3917,7 +3917,7 @@
           }
         ]
       },
-      "title": "3-9-2"
+      "title": "Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))"
     },
     {
       "path": "3-d-1/data.csv",
@@ -3953,7 +3953,7 @@
           }
         ]
       },
-      "title": "3-d-1"
+      "title": "Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación para emergencias de salud"
     },
     {
       "path": "7-1-1/data.csv",
@@ -3977,7 +3977,7 @@
           }
         ]
       },
-      "title": "7-1-1"
+      "title": "Proporción de la población que tiene acceso a la electricidad"
     },
     {
       "path": "3-a-1/data.csv",
@@ -4014,7 +4014,7 @@
           }
         ]
       },
-      "title": "3-a-1"
+      "title": "Prevalencia del consumo actual de tabaco a partir de los 15 años de edad (edades ajustadas)"
     },
     {
       "path": "6-6-1/data.csv",
@@ -4050,7 +4050,175 @@
           }
         ]
       },
-      "title": "6-6-1"
+      "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo"
+    },
+    {
+      "path": "2-c-1/data.csv",
+      "name": "2-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indicador de anomalías en los precios de los alimentos"
+    },
+    {
+      "path": "8-a-1/data.csv",
+      "name": "8-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Compromisos y desembolsos en relación con la iniciativa Ayuda para el Comercio"
+    },
+    {
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Índice de orientación agrícola para el gasto público"
+    },
+    {
+      "path": "2-a-2/data.csv",
+      "name": "2-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total de corrientes oficiales de recursos (asistencia oficial para el desarrollo más otras corrientes oficiales) destinado al sector agrícola"
+    },
+    {
+      "path": "2-5-2/data.csv",
+      "name": "2-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de razas y variedades locales consideradas en riesgo de extinción"
+    },
+    {
+      "path": "2-b-1/data.csv",
+      "name": "2-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Subsidios a la exportación de productos agropecuarios"
+    },
+    {
+      "path": "2-5-1/data.csv",
+      "name": "2-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de recursos genéticos vegetales y animales para la alimentación y la agricultura preservados en instalaciones de conservación a medio y largo plazo"
     }
   ]
 }

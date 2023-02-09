@@ -60,7 +60,7 @@
           }
         ]
       },
-      "title": "1-4-1"
+      "title": "Proportion of population living in households with access to basic services"
     },
     {
       "path": "6-a-1/data.csv",
@@ -96,7 +96,7 @@
           }
         ]
       },
-      "title": "6-a-1"
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
       "path": "4-5-1/data.csv",
@@ -132,7 +132,7 @@
           }
         ]
       },
-      "title": "4-5-1"
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
     },
     {
       "path": "6-1-1/data.csv",
@@ -156,7 +156,7 @@
           }
         ]
       },
-      "title": "6-1-1"
+      "title": "Proportion of population using safely managed drinking water services"
     },
     {
       "path": "1-a-2/data.csv",
@@ -192,7 +192,7 @@
           }
         ]
       },
-      "title": "1-a-2"
+      "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
       "path": "4-6-1/data.csv",
@@ -238,7 +238,7 @@
           }
         ]
       },
-      "title": "4-6-1"
+      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
     },
     {
       "path": "3-3-4/data.csv",
@@ -273,7 +273,7 @@
           }
         ]
       },
-      "title": "3-3-4"
+      "title": "Hepatitis B incidence per 100,000 population"
     },
     {
       "path": "8-10-2/data.csv",
@@ -309,7 +309,7 @@
           }
         ]
       },
-      "title": "8-10-2"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "4-1-1/data.csv",
@@ -356,7 +356,7 @@
           }
         ]
       },
-      "title": "4-1-1"
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
     },
     {
       "path": "3-9-1/data.csv",
@@ -392,7 +392,7 @@
           }
         ]
       },
-      "title": "3-9-1"
+      "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
       "path": "3-8-1/data.csv",
@@ -693,7 +693,7 @@
           }
         ]
       },
-      "title": "3-8-1"
+      "title": "Coverage of essential health services"
     },
     {
       "path": "1-1-1/data.csv",
@@ -799,7 +799,7 @@
           }
         ]
       },
-      "title": "1-1-1"
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "2-2-3/data.csv",
@@ -845,7 +845,7 @@
           }
         ]
       },
-      "title": "2-2-3"
+      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
     },
     {
       "path": "6-5-1/data.csv",
@@ -881,7 +881,7 @@
           }
         ]
       },
-      "title": "6-5-1"
+      "title": "Degree of integrated water resources management"
     },
     {
       "path": "1-3-1/data.csv",
@@ -917,7 +917,7 @@
           }
         ]
       },
-      "title": "1-3-1"
+      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
     },
     {
       "path": "8-6-1/data.csv",
@@ -953,7 +953,7 @@
           }
         ]
       },
-      "title": "8-6-1"
+      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
       "path": "3-4-2/data.csv",
@@ -1001,7 +1001,7 @@
           }
         ]
       },
-      "title": "3-4-2"
+      "title": "Suicide mortality rate"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1036,7 +1036,7 @@
           }
         ]
       },
-      "title": "2-1-2"
+      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
       "path": "7-b-1/data.csv",
@@ -1072,7 +1072,7 @@
           }
         ]
       },
-      "title": "7-b-1"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "4-4-1/data.csv",
@@ -1108,7 +1108,7 @@
           }
         ]
       },
-      "title": "4-4-1"
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
       "path": "8-3-1/data.csv",
@@ -1159,7 +1159,7 @@
           }
         ]
       },
-      "title": "8-3-1"
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "3-7-2/data.csv",
@@ -1207,7 +1207,7 @@
           }
         ]
       },
-      "title": "3-7-2"
+      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
       "path": "8-8-1/data.csv",
@@ -1253,7 +1253,7 @@
           }
         ]
       },
-      "title": "8-8-1"
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
       "path": "3-7-1/data.csv",
@@ -1289,7 +1289,7 @@
           }
         ]
       },
-      "title": "3-7-1"
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "1-2-1/data.csv",
@@ -1350,7 +1350,7 @@
           }
         ]
       },
-      "title": "1-2-1"
+      "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1386,7 +1386,7 @@
           }
         ]
       },
-      "title": "3-9-3"
+      "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
       "path": "3-2-2/data.csv",
@@ -1435,7 +1435,7 @@
           }
         ]
       },
-      "title": "3-2-2"
+      "title": "Neonatal mortality rate"
     },
     {
       "path": "6-5-2/data.csv",
@@ -1471,7 +1471,7 @@
           }
         ]
       },
-      "title": "6-5-2"
+      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
     },
     {
       "path": "4-7-1/data.csv",
@@ -1507,7 +1507,7 @@
           }
         ]
       },
-      "title": "4-7-1"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1555,7 +1555,7 @@
           }
         ]
       },
-      "title": "3-4-1"
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "3-5-2/data.csv",
@@ -1590,7 +1590,7 @@
           }
         ]
       },
-      "title": "3-5-2"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1638,7 +1638,7 @@
           }
         ]
       },
-      "title": "1-4-2"
+      "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
     },
     {
       "path": "1-b-1/data.csv",
@@ -1674,7 +1674,7 @@
           }
         ]
       },
-      "title": "1-b-1"
+      "title": "Pro-poor public social spending"
     },
     {
       "path": "4-c-1/data.csv",
@@ -1712,7 +1712,7 @@
           }
         ]
       },
-      "title": "4-c-1"
+      "title": "Proportion of teachers with the minimum required qualifications, by education level"
     },
     {
       "path": "3-b-3/data.csv",
@@ -1748,7 +1748,7 @@
           }
         ]
       },
-      "title": "3-b-3"
+      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
     },
     {
       "path": "1-2-2/data.csv",
@@ -1819,7 +1819,7 @@
           }
         ]
       },
-      "title": "1-2-2"
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
       "path": "3-3-2/data.csv",
@@ -1855,7 +1855,7 @@
           }
         ]
       },
-      "title": "3-3-2"
+      "title": "Tuberculosis incidence per 100,000 population"
     },
     {
       "path": "3-2-1/data.csv",
@@ -1902,7 +1902,7 @@
           }
         ]
       },
-      "title": "3-2-1"
+      "title": "Under‐5 mortality rate"
     },
     {
       "path": "4-2-1/data.csv",
@@ -1938,7 +1938,7 @@
           }
         ]
       },
-      "title": "4-2-1"
+      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
       "path": "8-7-1/data.csv",
@@ -1986,7 +1986,7 @@
           }
         ]
       },
-      "title": "8-7-1"
+      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
       "path": "7-2-1/data.csv",
@@ -2022,7 +2022,7 @@
           }
         ]
       },
-      "title": "7-2-1"
+      "title": "Renewable energy share in the total final energy consumption"
     },
     {
       "path": "3-b-2/data.csv",
@@ -2058,7 +2058,7 @@
           }
         ]
       },
-      "title": "3-b-2"
+      "title": "Total net official development assistance to medical research and basic health sectors"
     },
     {
       "path": "1-5-2/data.csv",
@@ -2095,7 +2095,7 @@
           }
         ]
       },
-      "title": "1-5-2"
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "7-a-1/data.csv",
@@ -2131,7 +2131,7 @@
           }
         ]
       },
-      "title": "7-a-1"
+      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
       "path": "3-1-2/data.csv",
@@ -2167,7 +2167,7 @@
           }
         ]
       },
-      "title": "3-1-2"
+      "title": "Proportion of births attended by skilled health personnel"
     },
     {
       "path": "4-a-1/data.csv",
@@ -2203,7 +2203,7 @@
           }
         ]
       },
-      "title": "4-a-1"
+      "title": "Proportion of schools offering basic services, by type of service"
     },
     {
       "path": "8-4-1/data.csv",
@@ -2239,7 +2239,7 @@
           }
         ]
       },
-      "title": "8-4-1"
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
       "path": "3-3-3/data.csv",
@@ -2275,7 +2275,7 @@
           }
         ]
       },
-      "title": "3-3-3"
+      "title": "Malaria incidence per 1,000 population"
     },
     {
       "path": "1-5-1/data.csv",
@@ -2324,7 +2324,7 @@
           }
         ]
       },
-      "title": "1-5-1"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2360,7 +2360,7 @@
           }
         ]
       },
-      "title": "8-2-1"
+      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "2-3-1/data.csv",
@@ -2396,7 +2396,7 @@
           }
         ]
       },
-      "title": "2-3-1"
+      "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
     },
     {
       "path": "6-2-1/data.csv",
@@ -2432,7 +2432,7 @@
           }
         ]
       },
-      "title": "6-2-1"
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "8-4-2/data.csv",
@@ -2478,7 +2478,7 @@
           }
         ]
       },
-      "title": "8-4-2"
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "7-1-2/data.csv",
@@ -2514,7 +2514,7 @@
           }
         ]
       },
-      "title": "7-1-2"
+      "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
       "path": "8-1-1/data.csv",
@@ -2549,7 +2549,7 @@
           }
         ]
       },
-      "title": "8-1-1"
+      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "8-5-1/data.csv",
@@ -2627,7 +2627,7 @@
           }
         ]
       },
-      "title": "8-5-1"
+      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
       "path": "6-4-2/data.csv",
@@ -2662,7 +2662,7 @@
           }
         ]
       },
-      "title": "6-4-2"
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
       "path": "7-3-1/data.csv",
@@ -2698,7 +2698,7 @@
           }
         ]
       },
-      "title": "7-3-1"
+      "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
       "path": "2-2-2/data.csv",
@@ -2746,7 +2746,7 @@
           }
         ]
       },
-      "title": "2-2-2"
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "1-5-3/data.csv",
@@ -2782,7 +2782,7 @@
           }
         ]
       },
-      "title": "1-5-3"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "3-3-5/data.csv",
@@ -2818,7 +2818,7 @@
           }
         ]
       },
-      "title": "3-3-5"
+      "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
       "path": "4-2-2/data.csv",
@@ -2853,7 +2853,7 @@
           }
         ]
       },
-      "title": "4-2-2"
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
       "path": "6-4-1/data.csv",
@@ -2889,7 +2889,7 @@
           }
         ]
       },
-      "title": "6-4-1"
+      "title": "Change in water-use efficiency over time"
     },
     {
       "path": "1-5-4/data.csv",
@@ -2925,7 +2925,7 @@
           }
         ]
       },
-      "title": "1-5-4"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "1-a-1/data.csv",
@@ -2961,7 +2961,7 @@
           }
         ]
       },
-      "title": "1-a-1"
+      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "2-2-1/data.csv",
@@ -2997,7 +2997,7 @@
           }
         ]
       },
-      "title": "2-2-1"
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "3-3-1/data.csv",
@@ -3034,7 +3034,7 @@
           }
         ]
       },
-      "title": "3-3-1"
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3070,7 +3070,7 @@
           }
         ]
       },
-      "title": "3-5-1"
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
       "path": "8-b-1/data.csv",
@@ -3106,7 +3106,7 @@
           }
         ]
       },
-      "title": "8-b-1"
+      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
     },
     {
       "path": "6-b-1/data.csv",
@@ -3142,7 +3142,7 @@
           }
         ]
       },
-      "title": "6-b-1"
+      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
       "path": "8-5-2/data.csv",
@@ -3177,7 +3177,7 @@
           }
         ]
       },
-      "title": "8-5-2"
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
       "path": "8-10-1/data.csv",
@@ -3212,7 +3212,7 @@
           }
         ]
       },
-      "title": "8-10-1"
+      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
       "path": "2-1-1/data.csv",
@@ -3248,7 +3248,7 @@
           }
         ]
       },
-      "title": "2-1-1"
+      "title": "Prevalence of undernourishment"
     },
     {
       "path": "4-1-2/data.csv",
@@ -3294,7 +3294,7 @@
           }
         ]
       },
-      "title": "4-1-2"
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
       "path": "6-3-1/data.csv",
@@ -3318,7 +3318,7 @@
           }
         ]
       },
-      "title": "6-3-1"
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "3-b-1/data.csv",
@@ -3364,7 +3364,7 @@
           }
         ]
       },
-      "title": "3-b-1"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
       "path": "2-4-1/data.csv",
@@ -3400,7 +3400,7 @@
           }
         ]
       },
-      "title": "2-4-1"
+      "title": "Proportion of agricultural area under productive and sustainable agriculture"
     },
     {
       "path": "3-1-1/data.csv",
@@ -3435,7 +3435,7 @@
           }
         ]
       },
-      "title": "3-1-1"
+      "title": "Maternal mortality ratio"
     },
     {
       "path": "4-b-1/data.csv",
@@ -3471,7 +3471,7 @@
           }
         ]
       },
-      "title": "4-b-1"
+      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
     },
     {
       "path": "4-3-1/data.csv",
@@ -3548,7 +3548,7 @@
           }
         ]
       },
-      "title": "4-3-1"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "6-3-2/data.csv",
@@ -3584,7 +3584,7 @@
           }
         ]
       },
-      "title": "6-3-2"
+      "title": "Proportion of bodies of water with good ambient water quality"
     },
     {
       "path": "2-3-2/data.csv",
@@ -3618,7 +3618,7 @@
           }
         ]
       },
-      "title": "2-3-2"
+      "title": "Average income of small-scale food producers, by sex and indigenous status"
     },
     {
       "path": "8-8-2/data.csv",
@@ -3654,7 +3654,7 @@
           }
         ]
       },
-      "title": "8-8-2"
+      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
     },
     {
       "path": "3-8-2/data.csv",
@@ -3690,7 +3690,7 @@
           }
         ]
       },
-      "title": "3-8-2"
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "8-9-1/data.csv",
@@ -3726,7 +3726,7 @@
           }
         ]
       },
-      "title": "8-9-1"
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "3-c-1/data.csv",
@@ -3784,7 +3784,7 @@
           }
         ]
       },
-      "title": "3-c-1"
+      "title": "Health worker density and distribution"
     },
     {
       "path": "3-6-1/data.csv",
@@ -3819,7 +3819,7 @@
           }
         ]
       },
-      "title": "3-6-1"
+      "title": "Death rate due to road traffic injuries"
     },
     {
       "path": "3-d-2/data.csv",
@@ -3881,7 +3881,7 @@
           }
         ]
       },
-      "title": "3-d-2"
+      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
     },
     {
       "path": "3-9-2/data.csv",
@@ -3917,7 +3917,7 @@
           }
         ]
       },
-      "title": "3-9-2"
+      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
     },
     {
       "path": "3-d-1/data.csv",
@@ -3953,7 +3953,7 @@
           }
         ]
       },
-      "title": "3-d-1"
+      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
     },
     {
       "path": "7-1-1/data.csv",
@@ -3977,7 +3977,7 @@
           }
         ]
       },
-      "title": "7-1-1"
+      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "3-a-1/data.csv",
@@ -4014,7 +4014,7 @@
           }
         ]
       },
-      "title": "3-a-1"
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "6-6-1/data.csv",
@@ -4050,7 +4050,175 @@
           }
         ]
       },
-      "title": "6-6-1"
+      "title": "Change in the extent of water-related ecosystems over time"
+    },
+    {
+      "path": "2-c-1/data.csv",
+      "name": "2-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indicator of food price anomalies"
+    },
+    {
+      "path": "8-a-1/data.csv",
+      "name": "8-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Aid for Trade commitments and disbursements"
+    },
+    {
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "The agriculture orientation index for government expenditures"
+    },
+    {
+      "path": "2-a-2/data.csv",
+      "name": "2-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
+    },
+    {
+      "path": "2-5-2/data.csv",
+      "name": "2-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of local breeds classified as being at risk of extinction"
+    },
+    {
+      "path": "2-b-1/data.csv",
+      "name": "2-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Agricultural export subsidies"
+    },
+    {
+      "path": "2-5-1/data.csv",
+      "name": "2-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     }
   ]
 }
