@@ -1,31 +1,33 @@
-Year,Units,Value
-2019,Population <18 in Households,19.97
-2019,Have a Computer,19.7
-2019,Have NO Computer,0.2
-2019,Population 18-64 in Households,71.5
-2019,Have a Computer,70.6
-2019,Have NO Computer,0.9
-2019,Population 65+ in Households,8.6
-2019,Have a Computer,7.5
-2019,Have NO Computer,1.1
-2019,With an Internet Subscription,87.1
-2019,Dial-Up Alone,0.3
-2019,Broadband,78.2
-2019,Satellite Service,7.5
-2019,Other Service,0.9
-2019,Internet Access with no Subscription,6.6
-2019,With No Internet Access,6.3
-2019,Drove alone,79.4
-2019,Carpooled,8.9
-2019,Public transportation (excluding taxicab),1.5
-2019,Bus or trolley bus,1.5
-2019,"Light rail, streetcar or trolley",0
-2019,Subway or elevated,0
-2019,Long-distance/Commuter Train,0
-2019,Ferryboat,0
-2019,Taxicab,0.1
-2019,Motorcycle,0.2
-2019,Bicycle,0.5
-2019,Walked,4.7
-2019,Other means,0.5
-2019,Worked at home,4
+Year,Population,Service Type,Units,Value
+2019,Population <18 in Households,,Percent,19.97
+2019,,Have a Computer,Percent,19.7
+2019,,Have NO Computer,Percent,0.2
+2019,Population 18-64 in Households,,Percent,71.5
+2019,,Have a Computer,Percent,70.6
+2019,,Have NO Computer,Percent,0.9
+2019,Population 65+ in Households,,Percent,8.6
+2019,,Have a Computer,Percent,7.5
+2019,,Have NO Computer,Percent,1.1
+2019,Total population,,Percent,100
+2019,,With an Internet Subscription,Percent,87.1
+2019,,Dial-Up Alone,Percent,0.3
+2019,,Broadband,Percent,78.2
+2019,,Satellite Service,Percent,7.5
+2019,,Other Service,Percent,0.9
+2019,,Internet Access with no Subscription,Percent,6.6
+2019,,With No Internet Access,Percent,6.3
+2019,Population >16 years who works,,Percent,100
+2019,,Drove alone,Percent,79.4
+2019,,Carpooled,Percent,8.9
+2019,,Public transportation (excluding taxicab),Percent,1.5
+2019,,Bus or trolley bus,Percent,1.5
+2019,,"Light rail, streetcar or trolley",Percent,0
+2019,,Subway or elevated,Percent,0
+2019,,Long-distance/Commuter Train,Percent,0
+2019,,Ferryboat,Percent,0
+2019,,Taxicab,Percent,0.1
+2019,,Motorcycle,Percent,0.2
+2019,,Bicycle,Percent,0.5
+2019,,Walked,Percent,4.7
+2019,,Other means,Percent,0.5
+2019,,Worked at home,Percent,4
