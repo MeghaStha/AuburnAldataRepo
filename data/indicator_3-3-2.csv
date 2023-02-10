@@ -1,3 +1,3 @@
-Year,Units,Value
-2021,Case by county,4
-2021,"Rate per 100,000 by county",2.4
+Year,Coverage,Units,Value
+2021,Lee County,Case by county,4
+2021,Lee County,"Rate per 100,000 by county",2.4

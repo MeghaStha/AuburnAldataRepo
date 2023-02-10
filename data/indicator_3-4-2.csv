@@ -1,89 +1,89 @@
-Year,Race,Units,Value
-1999,,Number of deaths by county,11
-1999,White,Number of deaths by county,8
-1999,Black,Number of deaths by county,3
-1999,Other,Number of deaths by county,0
-2000,,Number of deaths by county,14
-2000,White,Number of deaths by county,13
-2000,Black,Number of deaths by county,1
-2000,Other,Number of deaths by county,0
-2001,,Number of deaths by county,7
-2001,White,Number of deaths by county,5
-2001,Black,Number of deaths by county,1
-2001,Other,Number of deaths by county,1
-2002,,Number of deaths by county,10
-2002,White,Number of deaths by county,10
-2002,Black,Number of deaths by county,0
-2002,Other,Number of deaths by county,0
-2003,,Number of deaths by county,14
-2003,White,Number of deaths by county,12
-2003,Black,Number of deaths by county,2
-2003,Other,Number of deaths by county,0
-2004,,Number of deaths by county,13
-2004,White,Number of deaths by county,11
-2004,Black,Number of deaths by county,1
-2004,Other,Number of deaths by county,1
-2005,,Number of deaths by county,8
-2005,White,Number of deaths by county,6
-2005,Black,Number of deaths by county,2
-2005,Other,Number of deaths by county,0
-2006,,Number of deaths by county,10
-2006,White,Number of deaths by county,10
-2006,Black,Number of deaths by county,0
-2006,Other,Number of deaths by county,0
-2007,,Number of deaths by county,7
-2007,White,Number of deaths by county,6
-2007,Black,Number of deaths by county,1
-2007,Other,Number of deaths by county,0
-2008,,Number of deaths by county,14
-2008,White,Number of deaths by county,12
-2008,Black,Number of deaths by county,2
-2008,Other,Number of deaths by county,0
-2009,,Number of deaths by county,9
-2009,White,Number of deaths by county,8
-2009,Black,Number of deaths by county,1
-2009,Other,Number of deaths by county,0
-2010,,Number of deaths by county,14
-2010,White,Number of deaths by county,13
-2010,Black,Number of deaths by county,1
-2010,Other,Number of deaths by county,0
-2011,,Number of deaths by county,11
-2011,White,Number of deaths by county,10
-2011,Black,Number of deaths by county,1
-2011,Other,Number of deaths by county,0
-2012,,Number of deaths by county,21
-2012,White,Number of deaths by county,18
-2012,Black,Number of deaths by county,3
-2012,Other,Number of deaths by county,0
-2013,,Number of deaths by county,19
-2013,White,Number of deaths by county,18
-2013,Black,Number of deaths by county,0
-2013,Other,Number of deaths by county,1
-2014,,Number of deaths by county,20
-2014,White,Number of deaths by county,18
-2014,Black,Number of deaths by county,2
-2014,Other,Number of deaths by county,0
-2015,,Number of deaths by county,17
-2015,White,Number of deaths by county,15
-2015,Black,Number of deaths by county,1
-2015,Other,Number of deaths by county,1
-2016,,Number of deaths by county,17
-2016,White,Number of deaths by county,17
-2016,Black,Number of deaths by county,0
-2016,Other,Number of deaths by county,0
-2017,,Number of deaths by county,21
-2017,White,Number of deaths by county,17
-2017,Black,Number of deaths by county,3
-2017,Other,Number of deaths by county,1
-2018,,Number of deaths by county,23
-2018,White,Number of deaths by county,17
-2018,Black,Number of deaths by county,1
-2018,Other,Number of deaths by county,5
-2019,,Number of deaths by county,24
-2019,White,Number of deaths by county,19
-2019,Black,Number of deaths by county,5
-2019,Other,Number of deaths by county,0
-2020,,Number of deaths by county,21
-2020,White,Number of deaths by county,17
-2020,Black,Number of deaths by county,4
-2020,Other,Number of deaths by county,0
+Year,Race,Coverage,Units,Value
+1999,,Lee County,Number of deaths by county,11
+1999,White,Lee County,Number of deaths by county,8
+1999,Black,Lee County,Number of deaths by county,3
+1999,Other,Lee County,Number of deaths by county,0
+2000,,Lee County,Number of deaths by county,14
+2000,White,Lee County,Number of deaths by county,13
+2000,Black,Lee County,Number of deaths by county,1
+2000,Other,Lee County,Number of deaths by county,0
+2001,,Lee County,Number of deaths by county,7
+2001,White,Lee County,Number of deaths by county,5
+2001,Black,Lee County,Number of deaths by county,1
+2001,Other,Lee County,Number of deaths by county,1
+2002,,Lee County,Number of deaths by county,10
+2002,White,Lee County,Number of deaths by county,10
+2002,Black,Lee County,Number of deaths by county,0
+2002,Other,Lee County,Number of deaths by county,0
+2003,,Lee County,Number of deaths by county,14
+2003,White,Lee County,Number of deaths by county,12
+2003,Black,Lee County,Number of deaths by county,2
+2003,Other,Lee County,Number of deaths by county,0
+2004,,Lee County,Number of deaths by county,13
+2004,White,Lee County,Number of deaths by county,11
+2004,Black,Lee County,Number of deaths by county,1
+2004,Other,Lee County,Number of deaths by county,1
+2005,,Lee County,Number of deaths by county,8
+2005,White,Lee County,Number of deaths by county,6
+2005,Black,Lee County,Number of deaths by county,2
+2005,Other,Lee County,Number of deaths by county,0
+2006,,Lee County,Number of deaths by county,10
+2006,White,Lee County,Number of deaths by county,10
+2006,Black,Lee County,Number of deaths by county,0
+2006,Other,Lee County,Number of deaths by county,0
+2007,,Lee County,Number of deaths by county,7
+2007,White,Lee County,Number of deaths by county,6
+2007,Black,Lee County,Number of deaths by county,1
+2007,Other,Lee County,Number of deaths by county,0
+2008,,Lee County,Number of deaths by county,14
+2008,White,Lee County,Number of deaths by county,12
+2008,Black,Lee County,Number of deaths by county,2
+2008,Other,Lee County,Number of deaths by county,0
+2009,,Lee County,Number of deaths by county,9
+2009,White,Lee County,Number of deaths by county,8
+2009,Black,Lee County,Number of deaths by county,1
+2009,Other,Lee County,Number of deaths by county,0
+2010,,Lee County,Number of deaths by county,14
+2010,White,Lee County,Number of deaths by county,13
+2010,Black,Lee County,Number of deaths by county,1
+2010,Other,Lee County,Number of deaths by county,0
+2011,,Lee County,Number of deaths by county,11
+2011,White,Lee County,Number of deaths by county,10
+2011,Black,Lee County,Number of deaths by county,1
+2011,Other,Lee County,Number of deaths by county,0
+2012,,Lee County,Number of deaths by county,21
+2012,White,Lee County,Number of deaths by county,18
+2012,Black,Lee County,Number of deaths by county,3
+2012,Other,Lee County,Number of deaths by county,0
+2013,,Lee County,Number of deaths by county,19
+2013,White,Lee County,Number of deaths by county,18
+2013,Black,Lee County,Number of deaths by county,0
+2013,Other,Lee County,Number of deaths by county,1
+2014,,Lee County,Number of deaths by county,20
+2014,White,Lee County,Number of deaths by county,18
+2014,Black,Lee County,Number of deaths by county,2
+2014,Other,Lee County,Number of deaths by county,0
+2015,,Lee County,Number of deaths by county,17
+2015,White,Lee County,Number of deaths by county,15
+2015,Black,Lee County,Number of deaths by county,1
+2015,Other,Lee County,Number of deaths by county,1
+2016,,Lee County,Number of deaths by county,17
+2016,White,Lee County,Number of deaths by county,17
+2016,Black,Lee County,Number of deaths by county,0
+2016,Other,Lee County,Number of deaths by county,0
+2017,,Lee County,Number of deaths by county,21
+2017,White,Lee County,Number of deaths by county,17
+2017,Black,Lee County,Number of deaths by county,3
+2017,Other,Lee County,Number of deaths by county,1
+2018,,Lee County,Number of deaths by county,23
+2018,White,Lee County,Number of deaths by county,17
+2018,Black,Lee County,Number of deaths by county,1
+2018,Other,Lee County,Number of deaths by county,5
+2019,,Lee County,Number of deaths by county,24
+2019,White,Lee County,Number of deaths by county,19
+2019,Black,Lee County,Number of deaths by county,5
+2019,Other,Lee County,Number of deaths by county,0
+2020,,Lee County,Number of deaths by county,21
+2020,White,Lee County,Number of deaths by county,17
+2020,Black,Lee County,Number of deaths by county,4
+2020,Other,Lee County,Number of deaths by county,0
