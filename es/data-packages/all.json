@@ -1908,6 +1908,17 @@
             "title": "Race"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
