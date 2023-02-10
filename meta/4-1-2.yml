@@ -28,6 +28,7 @@ CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
   ## Limitation:
+  
   The completion rate data was not found divided into primary, secondary, and higher.
 UNIT_MEASURE: >-
 
