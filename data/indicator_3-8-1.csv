@@ -1,225 +1,225 @@
-Year,Health Coverage,Provider,Gender,Age,Health Insurance by Gender and Age,Units,Value
-2013,Private,,Male,,22769,Percent,49.44515625
-2013,Private,,Female,,23280,Percent,50.55484375
-2013,Public,,Male,,3591,Percent,45.28373266
-2013,Public,,Female,,4339,Percent,54.71626734
-2013,,Medicaid,,Under 18 Years,2347,Percent,74.4842907
-2013,,Medicaid,,18 to 34 Years,504,Percent,15.99492225
-2013,,Medicaid,,35 to 64 Years,265,Percent,8.410028562
-2013,,Medicaid,,65 Years & Over,35,Percent,1.110758489
-2013,,Medicare,,Under 18 Years,83,Percent,3.182515337
-2013,,Medicare,,18 to 34 Years,39,Percent,1.495398773
-2013,,Medicare,,35 to 64 Years,144,Percent,5.521472393
-2013,,Medicare,,65 Years & Over,2342,Percent,89.8006135
-2013,,Employer,,Under 18 Years,6002,Percent,17.50721932
-2013,,Employer,,18 to 34 Years,18811,Percent,54.86976052
-2013,,Employer,,35 to 64 Years,9379,Percent,27.35758248
-2013,,Employer,,65 Years & Over,91,Percent,0.26543768
-2013,,OtherPublic,,Under 18 Years,161,Percent,16.98312236
-2013,,OtherPublic,,18 to 34 Years,456,Percent,48.10126582
-2013,,OtherPublic,,35 to 64 Years,316,Percent,33.33333333
-2013,,OtherPublic,,65 Years & Over,15,Percent,1.582278481
-2013,,NonGroup,,Under 18 Years,890,Percent,9.921962096
-2013,,NonGroup,,18 to 34 Years,5289,Percent,58.9632107
-2013,,NonGroup,,35 to 64 Years,1697,Percent,18.91861761
-2013,,NonGroup,,65 Years & Over,1094,Percent,12.19620959
-2013,,Uninsured,,Under 18 Years,320,Percent,6.109201985
-2013,,Uninsured,,18 to 34 Years,3796,Percent,72.47040855
-2013,,Uninsured,,35 to 64 Years,1108,Percent,21.15311187
-2013,,Uninsured,,65 Years & Over,14,Percent,0.267277587
-2014,Private,,Male,,23595,Percent,49.49342395
-2014,Private,,Female,,24078,Percent,50.50657605
-2014,Public,,Male,,3835,Percent,44.77002101
-2014,Public,,Female,,4731,Percent,55.22997899
-2014,,Medicaid,,Under 18 Years,2651,Percent,68.75
-2014,,Medicaid,,18 to 34 Years,657,Percent,17.03838174
-2014,,Medicaid,,35 to 64 Years,483,Percent,12.52593361
-2014,,Medicaid,,65 Years & Over,65,Percent,1.685684647
-2014,,Medicare,,Under 18 Years,49,Percent,1.986218079
-2014,,Medicare,,18 to 34 Years,33,Percent,1.337657073
-2014,,Medicare,,35 to 64 Years,158,Percent,6.404539927
-2014,,Medicare,,65 Years & Over,2227,Percent,90.27158492
-2014,,Employer,,Under 18 Years,6138,Percent,17.2585407
-2014,,Employer,,18 to 34 Years,19147,Percent,53.83663714
-2014,,Employer,,35 to 64 Years,10092,Percent,28.37621257
-2014,,Employer,,65 Years & Over,188,Percent,0.528609588
-2014,,OtherPublic,,Under 18 Years,222,Percent,23.125
-2014,,OtherPublic,,18 to 34 Years,431,Percent,44.89583333
-2014,,OtherPublic,,35 to 64 Years,282,Percent,29.375
-2014,,OtherPublic,,65 Years & Over,25,Percent,2.604166667
-2014,,NonGroup,,Under 18 Years,780,Percent,8.283772302
-2014,,NonGroup,,18 to 34 Years,5986,Percent,63.57264231
-2014,,NonGroup,,35 to 64 Years,1559,Percent,16.55692438
-2014,,NonGroup,,65 Years & Over,1091,Percent,11.586661
-2014,,Uninsured,,Under 18 Years,82,Percent,1.819795828
-2014,,Uninsured,,18 to 34 Years,3526,Percent,78.25122059
-2014,,Uninsured,,35 to 64 Years,879,Percent,19.50732357
-2014,,Uninsured,,65 Years & Over,19,Percent,0.421660009
-2015,Private,,Male,,24555,Percent,49.89332521
-2015,Private,,Female,,24660,Percent,50.10667479
-2015,Public,,Male,,4231,Percent,44.51341399
-2015,Public,,Female,,5274,Percent,55.48658601
-2015,,Medicaid,,Under 18 Years,2786,Percent,67.34348562
-2015,,Medicaid,,18 to 34 Years,638,Percent,15.42180324
-2015,,Medicaid,,35 to 64 Years,589,Percent,14.23737007
-2015,,Medicaid,,65 Years & Over,124,Percent,2.997341068
-2015,,Medicare,,Under 18 Years,56,Percent,1.902820251
-2015,,Medicare,,18 to 34 Years,108,Percent,3.669724771
-2015,,Medicare,,35 to 64 Years,244,Percent,8.290859667
-2015,,Medicare,,65 Years & Over,2535,Percent,86.13659531
-2015,,Employer,,Under 18 Years,6573,Percent,18.03787047
-2015,,Employer,,18 to 34 Years,19303,Percent,52.97200878
-2015,,Employer,,35 to 64 Years,10388,Percent,28.50713502
-2015,,Employer,,65 Years & Over,176,Percent,0.48298573
-2015,,OtherPublic,,Under 18 Years,155,Percent,17.27982163
-2015,,OtherPublic,,18 to 34 Years,461,Percent,51.393534
-2015,,OtherPublic,,35 to 64 Years,253,Percent,28.20512821
-2015,,OtherPublic,,65 Years & Over,28,Percent,3.121516165
-2015,,NonGroup,,Under 18 Years,1172,Percent,11.65821148
-2015,,NonGroup,,18 to 34 Years,6161,Percent,61.2851885
-2015,,NonGroup,,35 to 64 Years,1690,Percent,16.81090222
-2015,,NonGroup,,65 Years & Over,1030,Percent,10.2456978
-2015,,Uninsured,,Under 18 Years,86,Percent,2.132936508
-2015,,Uninsured,,18 to 34 Years,3027,Percent,75.07440476
-2015,,Uninsured,,35 to 64 Years,902,Percent,22.37103175
-2015,,Uninsured,,65 Years & Over,17,Percent,0.421626984
-2016,Private,,Male,,25655,Percent,50.0741695
-2016,Private,,Female,,25579,Percent,49.9258305
-2016,Public,,Male,,4444,Percent,44.19252188
-2016,Public,,Female,,5612,Percent,55.80747812
-2016,,Medicaid,,Under 18 Years,2618,Percent,65.20547945
-2016,,Medicaid,,18 to 34 Years,714,Percent,17.78331258
-2016,,Medicaid,,35 to 64 Years,541,Percent,13.47447073
-2016,,Medicaid,,65 Years & Over,142,Percent,3.536737235
-2016,,Medicare,,Under 18 Years,0,Percent,0
-2016,,Medicare,,18 to 34 Years,167,Percent,4.850421144
-2016,,Medicare,,35 to 64 Years,294,Percent,8.539064769
-2016,,Medicare,,65 Years & Over,2982,Percent,86.61051409
-2016,,Employer,,Under 18 Years,6633,Percent,18.09921415
-2016,,Employer,,18 to 34 Years,19167,Percent,52.30026195
-2016,,Employer,,35 to 64 Years,10655,Percent,29.07389216
-2016,,Employer,,65 Years & Over,193,Percent,0.52663174
-2016,,OtherPublic,,Under 18 Years,223,Percent,20.89971884
-2016,,OtherPublic,,18 to 34 Years,539,Percent,50.51546392
-2016,,OtherPublic,,35 to 64 Years,278,Percent,26.05435801
-2016,,OtherPublic,,65 Years & Over,27,Percent,2.530459231
-2016,,NonGroup,,Under 18 Years,1472,Percent,13.32488458
-2016,,NonGroup,,18 to 34 Years,6592,Percent,59.67230922
-2016,,NonGroup,,35 to 64 Years,2004,Percent,18.14067168
-2016,,NonGroup,,65 Years & Over,979,Percent,8.862134516
-2016,,Uninsured,,Under 18 Years,96,Percent,2.465964552
-2016,,Uninsured,,18 to 34 Years,2797,Percent,71.8469047
-2016,,Uninsured,,35 to 64 Years,982,Percent,25.22476239
-2016,,Uninsured,,65 Years & Over,18,Percent,0.462368353
-2017,Private,,Male,,25893,Percent,49.6110515
-2017,Private,,Female,,26299,Percent,50.3889485
-2017,Public,,Male,,4882,Percent,45.50708427
-2017,Public,,Female,,5846,Percent,54.49291573
-2017,,Medicaid,,Under 18 Years,2909,Percent,68.88467914
-2017,,Medicaid,,18 to 34 Years,480,Percent,11.36632726
-2017,,Medicaid,,35 to 64 Years,667,Percent,15.79445892
-2017,,Medicaid,,65 Years & Over,167,Percent,3.954534691
-2017,,Medicare,,Under 18 Years,0,Percent,0
-2017,,Medicare,,18 to 34 Years,95,Percent,2.624309392
-2017,,Medicare,,35 to 64 Years,285,Percent,7.872928177
-2017,,Medicare,,65 Years & Over,3240,Percent,89.50276243
-2017,,Employer,,Under 18 Years,8177,Percent,22.20442079
-2017,,Employer,,18 to 34 Years,17462,Percent,47.4175854
-2017,,Employer,,35 to 64 Years,11001,Percent,29.87291587
-2017,,Employer,,65 Years & Over,186,Percent,0.505077934
-2017,,OtherPublic,,Under 18 Years,226,Percent,23.64016736
-2017,,OtherPublic,,18 to 34 Years,425,Percent,44.45606695
-2017,,OtherPublic,,35 to 64 Years,274,Percent,28.66108787
-2017,,OtherPublic,,65 Years & Over,31,Percent,3.242677824
-2017,,NonGroup,,Under 18 Years,2550,Percent,21.48816044
-2017,,NonGroup,,18 to 34 Years,6006,Percent,50.6109379
-2017,,NonGroup,,35 to 64 Years,2188,Percent,18.43768433
-2017,,NonGroup,,65 Years & Over,1123,Percent,9.463217325
-2017,,Uninsured,,Under 18 Years,212,Percent,5.639797819
-2017,,Uninsured,,18 to 34 Years,2556,Percent,67.99680766
-2017,,Uninsured,,35 to 64 Years,977,Percent,25.99095504
-2017,,Uninsured,,65 Years & Over,14,Percent,0.372439479
-2018,Private,,Male,,26579,Percent,49.43642586
-2018,Private,,Female,,27185,Percent,50.56357414
-2018,Public,,Male,,4977,Percent,45.31961391
-2018,Public,,Female,,6005,Percent,54.68038609
-2018,,Medicaid,,Under 18 Years,2770,Percent,62.17732884
-2018,,Medicaid,,18 to 34 Years,685,Percent,15.37598204
-2018,,Medicaid,,35 to 64 Years,829,Percent,18.60830527
-2018,,Medicaid,,65 Years & Over,171,Percent,3.838383838
-2018,,Medicare,,Under 18 Years,0,Percent,0
-2018,,Medicare,,18 to 34 Years,106,Percent,2.987598647
-2018,,Medicare,,35 to 64 Years,375,Percent,10.56933484
-2018,,Medicare,,65 Years & Over,3067,Percent,86.44306652
-2018,,Employer,,Under 18 Years,8478,Percent,21.93929043
-2018,,Employer,,18 to 34 Years,18339,Percent,47.45749554
-2018,,Employer,,35 to 64 Years,11686,Percent,30.24092332
-2018,,Employer,,65 Years & Over,140,Percent,0.362290712
-2018,,OtherPublic,,Under 18 Years,276,Percent,23.4295416
-2018,,OtherPublic,,18 to 34 Years,519,Percent,44.05772496
-2018,,OtherPublic,,35 to 64 Years,356,Percent,30.22071307
-2018,,OtherPublic,,65 Years & Over,27,Percent,2.292020374
-2018,,NonGroup,,Under 18 Years,2536,Percent,21.52253246
-2018,,NonGroup,,18 to 34 Years,5801,Percent,49.23194433
-2018,,NonGroup,,35 to 64 Years,2201,Percent,18.67945345
-2018,,NonGroup,,65 Years & Over,1245,Percent,10.56606976
-2018,,Uninsured,,Under 18 Years,150,Percent,4.725897921
-2018,,Uninsured,,18 to 34 Years,2044,Percent,64.39823566
-2018,,Uninsured,,35 to 64 Years,980,Percent,30.87586641
-2018,,Uninsured,,65 Years & Over,0,Percent,0
-2019,Private,,Male,,27445,Percent,49.84200203
-2019,Private,,Female,,27619,Percent,50.15799797
-2019,Public,,Male,,5159,Percent,47.39549839
-2019,Public,,Female,,5726,Percent,52.60450161
-2019,,Medicaid,,Under 18 Years,2322,Percent,59.96900826
-2019,,Medicaid,,18 to 34 Years,748,Percent,19.31818182
-2019,,Medicaid,,35 to 64 Years,648,Percent,16.73553719
-2019,,Medicaid,,65 Years & Over,154,Percent,3.977272727
-2019,,Medicare,,Under 18 Years,4,Percent,0.102145046
-2019,,Medicare,,18 to 34 Years,101,Percent,2.579162411
-2019,,Medicare,,35 to 64 Years,290,Percent,7.405515832
-2019,,Medicare,,65 Years & Over,3521,Percent,89.91317671
-2019,,Employer,,Under 18 Years,9079,Percent,23.00927569
-2019,,Employer,,18 to 34 Years,18175,Percent,46.06163516
-2019,,Employer,,35 to 64 Years,12058,Percent,30.55907547
-2019,,Employer,,65 Years & Over,146,Percent,0.370013685
-2019,,OtherPublic,,Under 18 Years,199,Percent,15.00754148
-2019,,OtherPublic,,18 to 34 Years,617,Percent,46.53092006
-2019,,OtherPublic,,35 to 64 Years,489,Percent,36.87782805
-2019,,OtherPublic,,65 Years & Over,21,Percent,1.583710407
-2019,,NonGroup,,Under 18 Years,2659,Percent,22.40478598
-2019,,NonGroup,,18 to 34 Years,5453,Percent,45.9470846
-2019,,NonGroup,,35 to 64 Years,2499,Percent,21.05662285
-2019,,NonGroup,,65 Years & Over,1257,Percent,10.59150657
-2019,,Uninsured,,Under 18 Years,196,Percent,5.746115509
-2019,,Uninsured,,18 to 34 Years,2045,Percent,59.95309293
-2019,,Uninsured,,35 to 64 Years,1170,Percent,34.30079156
-2019,,Uninsured,,65 Years & Over,0,Percent,0
-2020,Private,,Male,,28227,Percent,49.43952079
-2020,Private,,Female,,28867,Percent,50.56047921
-2020,Public,,Male,,4921,Percent,47.86033846
-2020,Public,,Female,,5361,Percent,52.13966154
-2020,,Medicaid,,Under 18 Years,1704,Percent,55.55917835
-2020,,Medicaid,,18 to 34 Years,936,Percent,30.51842191
-2020,,Medicaid,,35 to 64 Years,371,Percent,12.09651125
-2020,,Medicaid,,65 Years & Over,56,Percent,1.82588849
-2020,,Medicare,,Under 18 Years,15,Percent,0.405844156
-2020,,Medicare,,18 to 34 Years,7,Percent,0.189393939
-2020,,Medicare,,35 to 64 Years,402,Percent,10.87662338
-2020,,Medicare,,65 Years & Over,3272,Percent,88.52813853
-2020,,Employer,,Under 18 Years,10227,Percent,24.67369538
-2020,,Employer,,18 to 34 Years,17614,Percent,42.495597
-2020,,Employer,,35 to 64 Years,13389,Percent,32.30234746
-2020,,Employer,,65 Years & Over,219,Percent,0.528360153
-2020,,OtherPublic,,Under 18 Years,253,Percent,16.41791045
-2020,,OtherPublic,,18 to 34 Years,579,Percent,37.57300454
-2020,,OtherPublic,,35 to 64 Years,681,Percent,44.19208306
-2020,,OtherPublic,,65 Years & Over,28,Percent,1.817001947
-2020,,NonGroup,,Under 18 Years,2209,Percent,18.75849185
-2020,,NonGroup,,18 to 34 Years,5552,Percent,47.14673913
-2020,,NonGroup,,35 to 64 Years,2147,Percent,18.23199728
-2020,,NonGroup,,65 Years & Over,1868,Percent,15.86277174
-2020,,Uninsured,,Under 18 Years,205,Percent,5.533063428
-2020,,Uninsured,,18 to 34 Years,2303,Percent,62.15924426
-2020,,Uninsured,,35 to 64 Years,1197,Percent,32.30769231
-2020,,Uninsured,,65 Years & Over,0,Percent,0
+Year,Health Coverage,Provider,Gender,Age,Units,Value
+2013,Private,,Male,,Percent,49.44515625
+2013,Private,,Female,,Percent,50.55484375
+2013,Public,,Male,,Percent,45.28373266
+2013,Public,,Female,,Percent,54.71626734
+2013,,Medicaid,,Under 18 Years,Percent,74.4842907
+2013,,Medicaid,,18 to 34 Years,Percent,15.99492225
+2013,,Medicaid,,35 to 64 Years,Percent,8.410028562
+2013,,Medicaid,,65 Years & Over,Percent,1.110758489
+2013,,Medicare,,Under 18 Years,Percent,3.182515337
+2013,,Medicare,,18 to 34 Years,Percent,1.495398773
+2013,,Medicare,,35 to 64 Years,Percent,5.521472393
+2013,,Medicare,,65 Years & Over,Percent,89.8006135
+2013,,Employer,,Under 18 Years,Percent,17.50721932
+2013,,Employer,,18 to 34 Years,Percent,54.86976052
+2013,,Employer,,35 to 64 Years,Percent,27.35758248
+2013,,Employer,,65 Years & Over,Percent,0.26543768
+2013,,OtherPublic,,Under 18 Years,Percent,16.98312236
+2013,,OtherPublic,,18 to 34 Years,Percent,48.10126582
+2013,,OtherPublic,,35 to 64 Years,Percent,33.33333333
+2013,,OtherPublic,,65 Years & Over,Percent,1.582278481
+2013,,NonGroup,,Under 18 Years,Percent,9.921962096
+2013,,NonGroup,,18 to 34 Years,Percent,58.9632107
+2013,,NonGroup,,35 to 64 Years,Percent,18.91861761
+2013,,NonGroup,,65 Years & Over,Percent,12.19620959
+2013,,Uninsured,,Under 18 Years,Percent,6.109201985
+2013,,Uninsured,,18 to 34 Years,Percent,72.47040855
+2013,,Uninsured,,35 to 64 Years,Percent,21.15311187
+2013,,Uninsured,,65 Years & Over,Percent,0.267277587
+2014,Private,,Male,,Percent,49.49342395
+2014,Private,,Female,,Percent,50.50657605
+2014,Public,,Male,,Percent,44.77002101
+2014,Public,,Female,,Percent,55.22997899
+2014,,Medicaid,,Under 18 Years,Percent,68.75
+2014,,Medicaid,,18 to 34 Years,Percent,17.03838174
+2014,,Medicaid,,35 to 64 Years,Percent,12.52593361
+2014,,Medicaid,,65 Years & Over,Percent,1.685684647
+2014,,Medicare,,Under 18 Years,Percent,1.986218079
+2014,,Medicare,,18 to 34 Years,Percent,1.337657073
+2014,,Medicare,,35 to 64 Years,Percent,6.404539927
+2014,,Medicare,,65 Years & Over,Percent,90.27158492
+2014,,Employer,,Under 18 Years,Percent,17.2585407
+2014,,Employer,,18 to 34 Years,Percent,53.83663714
+2014,,Employer,,35 to 64 Years,Percent,28.37621257
+2014,,Employer,,65 Years & Over,Percent,0.528609588
+2014,,OtherPublic,,Under 18 Years,Percent,23.125
+2014,,OtherPublic,,18 to 34 Years,Percent,44.89583333
+2014,,OtherPublic,,35 to 64 Years,Percent,29.375
+2014,,OtherPublic,,65 Years & Over,Percent,2.604166667
+2014,,NonGroup,,Under 18 Years,Percent,8.283772302
+2014,,NonGroup,,18 to 34 Years,Percent,63.57264231
+2014,,NonGroup,,35 to 64 Years,Percent,16.55692438
+2014,,NonGroup,,65 Years & Over,Percent,11.586661
+2014,,Uninsured,,Under 18 Years,Percent,1.819795828
+2014,,Uninsured,,18 to 34 Years,Percent,78.25122059
+2014,,Uninsured,,35 to 64 Years,Percent,19.50732357
+2014,,Uninsured,,65 Years & Over,Percent,0.421660009
+2015,Private,,Male,,Percent,49.89332521
+2015,Private,,Female,,Percent,50.10667479
+2015,Public,,Male,,Percent,44.51341399
+2015,Public,,Female,,Percent,55.48658601
+2015,,Medicaid,,Under 18 Years,Percent,67.34348562
+2015,,Medicaid,,18 to 34 Years,Percent,15.42180324
+2015,,Medicaid,,35 to 64 Years,Percent,14.23737007
+2015,,Medicaid,,65 Years & Over,Percent,2.997341068
+2015,,Medicare,,Under 18 Years,Percent,1.902820251
+2015,,Medicare,,18 to 34 Years,Percent,3.669724771
+2015,,Medicare,,35 to 64 Years,Percent,8.290859667
+2015,,Medicare,,65 Years & Over,Percent,86.13659531
+2015,,Employer,,Under 18 Years,Percent,18.03787047
+2015,,Employer,,18 to 34 Years,Percent,52.97200878
+2015,,Employer,,35 to 64 Years,Percent,28.50713502
+2015,,Employer,,65 Years & Over,Percent,0.48298573
+2015,,OtherPublic,,Under 18 Years,Percent,17.27982163
+2015,,OtherPublic,,18 to 34 Years,Percent,51.393534
+2015,,OtherPublic,,35 to 64 Years,Percent,28.20512821
+2015,,OtherPublic,,65 Years & Over,Percent,3.121516165
+2015,,NonGroup,,Under 18 Years,Percent,11.65821148
+2015,,NonGroup,,18 to 34 Years,Percent,61.2851885
+2015,,NonGroup,,35 to 64 Years,Percent,16.81090222
+2015,,NonGroup,,65 Years & Over,Percent,10.2456978
+2015,,Uninsured,,Under 18 Years,Percent,2.132936508
+2015,,Uninsured,,18 to 34 Years,Percent,75.07440476
+2015,,Uninsured,,35 to 64 Years,Percent,22.37103175
+2015,,Uninsured,,65 Years & Over,Percent,0.421626984
+2016,Private,,Male,,Percent,50.0741695
+2016,Private,,Female,,Percent,49.9258305
+2016,Public,,Male,,Percent,44.19252188
+2016,Public,,Female,,Percent,55.80747812
+2016,,Medicaid,,Under 18 Years,Percent,65.20547945
+2016,,Medicaid,,18 to 34 Years,Percent,17.78331258
+2016,,Medicaid,,35 to 64 Years,Percent,13.47447073
+2016,,Medicaid,,65 Years & Over,Percent,3.536737235
+2016,,Medicare,,Under 18 Years,Percent,0
+2016,,Medicare,,18 to 34 Years,Percent,4.850421144
+2016,,Medicare,,35 to 64 Years,Percent,8.539064769
+2016,,Medicare,,65 Years & Over,Percent,86.61051409
+2016,,Employer,,Under 18 Years,Percent,18.09921415
+2016,,Employer,,18 to 34 Years,Percent,52.30026195
+2016,,Employer,,35 to 64 Years,Percent,29.07389216
+2016,,Employer,,65 Years & Over,Percent,0.52663174
+2016,,OtherPublic,,Under 18 Years,Percent,20.89971884
+2016,,OtherPublic,,18 to 34 Years,Percent,50.51546392
+2016,,OtherPublic,,35 to 64 Years,Percent,26.05435801
+2016,,OtherPublic,,65 Years & Over,Percent,2.530459231
+2016,,NonGroup,,Under 18 Years,Percent,13.32488458
+2016,,NonGroup,,18 to 34 Years,Percent,59.67230922
+2016,,NonGroup,,35 to 64 Years,Percent,18.14067168
+2016,,NonGroup,,65 Years & Over,Percent,8.862134516
+2016,,Uninsured,,Under 18 Years,Percent,2.465964552
+2016,,Uninsured,,18 to 34 Years,Percent,71.8469047
+2016,,Uninsured,,35 to 64 Years,Percent,25.22476239
+2016,,Uninsured,,65 Years & Over,Percent,0.462368353
+2017,Private,,Male,,Percent,49.6110515
+2017,Private,,Female,,Percent,50.3889485
+2017,Public,,Male,,Percent,45.50708427
+2017,Public,,Female,,Percent,54.49291573
+2017,,Medicaid,,Under 18 Years,Percent,68.88467914
+2017,,Medicaid,,18 to 34 Years,Percent,11.36632726
+2017,,Medicaid,,35 to 64 Years,Percent,15.79445892
+2017,,Medicaid,,65 Years & Over,Percent,3.954534691
+2017,,Medicare,,Under 18 Years,Percent,0
+2017,,Medicare,,18 to 34 Years,Percent,2.624309392
+2017,,Medicare,,35 to 64 Years,Percent,7.872928177
+2017,,Medicare,,65 Years & Over,Percent,89.50276243
+2017,,Employer,,Under 18 Years,Percent,22.20442079
+2017,,Employer,,18 to 34 Years,Percent,47.4175854
+2017,,Employer,,35 to 64 Years,Percent,29.87291587
+2017,,Employer,,65 Years & Over,Percent,0.505077934
+2017,,OtherPublic,,Under 18 Years,Percent,23.64016736
+2017,,OtherPublic,,18 to 34 Years,Percent,44.45606695
+2017,,OtherPublic,,35 to 64 Years,Percent,28.66108787
+2017,,OtherPublic,,65 Years & Over,Percent,3.242677824
+2017,,NonGroup,,Under 18 Years,Percent,21.48816044
+2017,,NonGroup,,18 to 34 Years,Percent,50.6109379
+2017,,NonGroup,,35 to 64 Years,Percent,18.43768433
+2017,,NonGroup,,65 Years & Over,Percent,9.463217325
+2017,,Uninsured,,Under 18 Years,Percent,5.639797819
+2017,,Uninsured,,18 to 34 Years,Percent,67.99680766
+2017,,Uninsured,,35 to 64 Years,Percent,25.99095504
+2017,,Uninsured,,65 Years & Over,Percent,0.372439479
+2018,Private,,Male,,Percent,49.43642586
+2018,Private,,Female,,Percent,50.56357414
+2018,Public,,Male,,Percent,45.31961391
+2018,Public,,Female,,Percent,54.68038609
+2018,,Medicaid,,Under 18 Years,Percent,62.17732884
+2018,,Medicaid,,18 to 34 Years,Percent,15.37598204
+2018,,Medicaid,,35 to 64 Years,Percent,18.60830527
+2018,,Medicaid,,65 Years & Over,Percent,3.838383838
+2018,,Medicare,,Under 18 Years,Percent,0
+2018,,Medicare,,18 to 34 Years,Percent,2.987598647
+2018,,Medicare,,35 to 64 Years,Percent,10.56933484
+2018,,Medicare,,65 Years & Over,Percent,86.44306652
+2018,,Employer,,Under 18 Years,Percent,21.93929043
+2018,,Employer,,18 to 34 Years,Percent,47.45749554
+2018,,Employer,,35 to 64 Years,Percent,30.24092332
+2018,,Employer,,65 Years & Over,Percent,0.362290712
+2018,,OtherPublic,,Under 18 Years,Percent,23.4295416
+2018,,OtherPublic,,18 to 34 Years,Percent,44.05772496
+2018,,OtherPublic,,35 to 64 Years,Percent,30.22071307
+2018,,OtherPublic,,65 Years & Over,Percent,2.292020374
+2018,,NonGroup,,Under 18 Years,Percent,21.52253246
+2018,,NonGroup,,18 to 34 Years,Percent,49.23194433
+2018,,NonGroup,,35 to 64 Years,Percent,18.67945345
+2018,,NonGroup,,65 Years & Over,Percent,10.56606976
+2018,,Uninsured,,Under 18 Years,Percent,4.725897921
+2018,,Uninsured,,18 to 34 Years,Percent,64.39823566
+2018,,Uninsured,,35 to 64 Years,Percent,30.87586641
+2018,,Uninsured,,65 Years & Over,Percent,0
+2019,Private,,Male,,Percent,49.84200203
+2019,Private,,Female,,Percent,50.15799797
+2019,Public,,Male,,Percent,47.39549839
+2019,Public,,Female,,Percent,52.60450161
+2019,,Medicaid,,Under 18 Years,Percent,59.96900826
+2019,,Medicaid,,18 to 34 Years,Percent,19.31818182
+2019,,Medicaid,,35 to 64 Years,Percent,16.73553719
+2019,,Medicaid,,65 Years & Over,Percent,3.977272727
+2019,,Medicare,,Under 18 Years,Percent,0.102145046
+2019,,Medicare,,18 to 34 Years,Percent,2.579162411
+2019,,Medicare,,35 to 64 Years,Percent,7.405515832
+2019,,Medicare,,65 Years & Over,Percent,89.91317671
+2019,,Employer,,Under 18 Years,Percent,23.00927569
+2019,,Employer,,18 to 34 Years,Percent,46.06163516
+2019,,Employer,,35 to 64 Years,Percent,30.55907547
+2019,,Employer,,65 Years & Over,Percent,0.370013685
+2019,,OtherPublic,,Under 18 Years,Percent,15.00754148
+2019,,OtherPublic,,18 to 34 Years,Percent,46.53092006
+2019,,OtherPublic,,35 to 64 Years,Percent,36.87782805
+2019,,OtherPublic,,65 Years & Over,Percent,1.583710407
+2019,,NonGroup,,Under 18 Years,Percent,22.40478598
+2019,,NonGroup,,18 to 34 Years,Percent,45.9470846
+2019,,NonGroup,,35 to 64 Years,Percent,21.05662285
+2019,,NonGroup,,65 Years & Over,Percent,10.59150657
+2019,,Uninsured,,Under 18 Years,Percent,5.746115509
+2019,,Uninsured,,18 to 34 Years,Percent,59.95309293
+2019,,Uninsured,,35 to 64 Years,Percent,34.30079156
+2019,,Uninsured,,65 Years & Over,Percent,0
+2020,Private,,Male,,Percent,49.43952079
+2020,Private,,Female,,Percent,50.56047921
+2020,Public,,Male,,Percent,47.86033846
+2020,Public,,Female,,Percent,52.13966154
+2020,,Medicaid,,Under 18 Years,Percent,55.55917835
+2020,,Medicaid,,18 to 34 Years,Percent,30.51842191
+2020,,Medicaid,,35 to 64 Years,Percent,12.09651125
+2020,,Medicaid,,65 Years & Over,Percent,1.82588849
+2020,,Medicare,,Under 18 Years,Percent,0.405844156
+2020,,Medicare,,18 to 34 Years,Percent,0.189393939
+2020,,Medicare,,35 to 64 Years,Percent,10.87662338
+2020,,Medicare,,65 Years & Over,Percent,88.52813853
+2020,,Employer,,Under 18 Years,Percent,24.67369538
+2020,,Employer,,18 to 34 Years,Percent,42.495597
+2020,,Employer,,35 to 64 Years,Percent,32.30234746
+2020,,Employer,,65 Years & Over,Percent,0.528360153
+2020,,OtherPublic,,Under 18 Years,Percent,16.41791045
+2020,,OtherPublic,,18 to 34 Years,Percent,37.57300454
+2020,,OtherPublic,,35 to 64 Years,Percent,44.19208306
+2020,,OtherPublic,,65 Years & Over,Percent,1.817001947
+2020,,NonGroup,,Under 18 Years,Percent,18.75849185
+2020,,NonGroup,,18 to 34 Years,Percent,47.14673913
+2020,,NonGroup,,35 to 64 Years,Percent,18.23199728
+2020,,NonGroup,,65 Years & Over,Percent,15.86277174
+2020,,Uninsured,,Under 18 Years,Percent,5.533063428
+2020,,Uninsured,,18 to 34 Years,Percent,62.15924426
+2020,,Uninsured,,35 to 64 Years,Percent,32.30769231
+2020,,Uninsured,,65 Years & Over,Percent,0
