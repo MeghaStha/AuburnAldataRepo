@@ -27,6 +27,16 @@
             }
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
