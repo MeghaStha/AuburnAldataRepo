@@ -29,6 +29,17 @@
             "title": "Race"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

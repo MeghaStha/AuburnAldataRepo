@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "State",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {

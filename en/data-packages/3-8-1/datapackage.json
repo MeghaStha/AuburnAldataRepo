@@ -22,6 +22,16 @@
               "enum": [
                 "Private",
                 "Public",
+                ""
+              ]
+            },
+            "title": "Health Coverage"
+          },
+          {
+            "name": "Provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Medicaid",
                 "Medicare",
                 "Employer",
@@ -31,7 +41,7 @@
                 ""
               ]
             },
-            "title": "Health Coverage"
+            "title": "Provider"
           },
           {
             "name": "Gender",

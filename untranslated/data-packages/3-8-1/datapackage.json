@@ -21,6 +21,15 @@
               "enum": [
                 "Private",
                 "Public",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Medicaid",
                 "Medicare",
                 "Employer",

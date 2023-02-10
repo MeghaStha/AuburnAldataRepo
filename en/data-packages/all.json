@@ -279,6 +279,17 @@
             "title": "Year"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -439,6 +450,16 @@
               "enum": [
                 "Private",
                 "Public",
+                ""
+              ]
+            },
+            "title": "Health Coverage"
+          },
+          {
+            "name": "Provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Medicaid",
                 "Medicare",
                 "Employer",
@@ -448,7 +469,7 @@
                 ""
               ]
             },
-            "title": "Health Coverage"
+            "title": "Provider"
           },
           {
             "name": "Gender",
@@ -1007,6 +1028,17 @@
             "title": "Race"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -1211,6 +1243,17 @@
               ]
             },
             "title": "Race"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
           },
           {
             "name": "Units",
@@ -1561,6 +1604,17 @@
             "title": "Race"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -1594,6 +1648,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
           },
           {
             "name": "Units",
@@ -1858,6 +1923,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
           },
           {
             "name": "Units",
@@ -4060,6 +4136,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "State",
+                ""
+              ]
+            },
+            "title": "Coverage"
           },
           {
             "name": "Units",

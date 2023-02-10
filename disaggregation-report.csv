@@ -1,18 +1,19 @@
 Disaggregation,Number of indicators,Number of values
 Age Group,1,5
 Age,4,10
-Coverage,3,2
+Coverage,10,3
 Education Attainment,1,4
 Employment Status,1,3
 End,6,6
 Gender,4,2
 Grade Level,1,1
 Group,4,13
-Health Coverage,1,8
+Health Coverage,1,2
 Health Insurance by Gender and Age,1,212
 Household,1,7
 Injury Type,1,1
 Population,1,5
+Provider,1,6
 Race,7,10
 Ratio,1,7
 Service Type,1,23
