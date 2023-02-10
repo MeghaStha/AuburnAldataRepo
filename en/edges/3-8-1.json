@@ -1,1 +1,1 @@
-{"From":["Health Coverage","Health Insurance by Gender and Age","Provider","Health Insurance by Gender and Age"],"To":["Gender","Health Coverage","Age","Provider"]}
+{"From":["Health Coverage","Provider"],"To":["Gender","Age"]}
