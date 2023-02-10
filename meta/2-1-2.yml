@@ -29,10 +29,12 @@ CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
   ## Definition:
+  
   This indicator provides internationally-comparable estimates of the proportion of the population facing moderate or severe difficulties in accessing food. 
   The Food Insecurity Experience Scale (FIES) produces a measure of the severity of food insecurity experienced by individuals or households, based on direct interviews. 
 
   ## Modification:
+  
   Alabama states Food insecurity is limited or uncertain. availability of nutritionally adequate and safe foods or limited or uncertain ability to acquire acceptable foods 
   in socially acceptable ways.
 
