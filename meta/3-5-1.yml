@@ -1,10 +1,11 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 3: Ensure healthy lives and promote well-being for all at all ages
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 3.5: Strengthen the prevention and treatment of substance abuse, 
+  including narcotic drug abuse and harmful use of alcohol
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 3.5.1: Coverage of treatment interventions (pharmacological, psychosocial and 
+  rehabilitation and aftercare services) for substance use disorders
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +29,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-

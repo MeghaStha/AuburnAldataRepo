@@ -1,0 +1,86 @@
+SDG_GOAL: >-
+  Goal 2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+SDG_TARGET: >-
+  Target 2.1: By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, 
+  including infants, to safe, nutritious and sufficient food all year round
+SDG_INDICATOR: >-
+  Indicator 2.1.1: Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES) - reported by county
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  ## Definition:
+  This indicator provides internationally-comparable estimates of the proportion of the population facing moderate or severe difficulties in accessing food. 
+  The Food Insecurity Experience Scale (FIES) produces a measure of the severity of food insecurity experienced by individuals or households, based on direct interviews. 
+
+  ## Modification:
+  Alabama states Food insecurity is limited or uncertain. availability of nutritionally adequate and safe foods or limited or uncertain ability to acquire acceptable foods 
+  in socially acceptable ways.
+
+UNIT_MEASURE: >-
+  Percentage
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  https://map.feedingamerica.org/county/2017/overall/alabama/county/lee
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+  Auburn, Al
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

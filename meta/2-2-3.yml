@@ -1,10 +1,10 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, 
+  and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 2.2.3: Prevalence of anaemia in overall population (percentage) - modified
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,8 +28,9 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+
 UNIT_MEASURE: >-
+  Percentage
 
 CLASS_SYSTEM: >-
 
@@ -42,6 +43,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://www.city-data.com/health-nutrition/Auburn-Alabama.html
 
 COMPILING_ORG: >-
 
@@ -70,6 +72,7 @@ QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 
 COVERAGE: >-
+  Auburn, Al
 
 COMPARABILITY: >-
 

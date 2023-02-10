@@ -1,10 +1,9 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 8.b: By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 8.b.1: Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +27,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-

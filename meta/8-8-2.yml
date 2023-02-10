@@ -1,10 +1,11 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 8.8: Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, 
+  in particular women migrants, and those in precarious employment 
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 8.8.2: Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) 
+  textual sources and national legislation, by sex and migrant status
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +29,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-

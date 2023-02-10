@@ -1,10 +1,10 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 6: Ensure availability and sustainable management of water and sanitation for all
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all 
+  and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 6.2.1: Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +28,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-

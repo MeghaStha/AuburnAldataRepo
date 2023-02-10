@@ -1,10 +1,11 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 3: Ensure healthy lives and promote well-being for all at all ages
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 3.9: By 2030, substantially reduce the number of deaths and illnesses 
+  from hazardous chemicals and air, water and soil pollution and contamination
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and 
+  lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +29,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-

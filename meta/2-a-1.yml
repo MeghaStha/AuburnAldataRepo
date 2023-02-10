@@ -1,10 +1,10 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 2.a: Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, 
+  technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 2.a.1: The agriculture orientation index for government expenditures
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-

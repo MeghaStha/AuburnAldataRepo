@@ -1,10 +1,10 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 3: Ensure healthy lives and promote well-being for all at all ages
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 3.4: By 2030, reduce by one third premature mortality from non-communicable diseases 
+  through prevention and treatment and promote mental health and well-being
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 3.4.1: Mortality count attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +28,11 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
+  ## Limitations:
   
+  Reported at only county level
+  
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -42,6 +46,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://www.alabamapublichealth.gov/healthstats/statistical-query.html
 
 COMPILING_ORG: >-
 
@@ -70,6 +75,7 @@ QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 
 COVERAGE: >-
+  Lee County, Al
 
 COMPARABILITY: >-
 

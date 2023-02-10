@@ -1,10 +1,11 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 6: Ensure availability and sustainable management of water and sanitation for all
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 6.3: By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of 
+  hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling 
+  and safe reuse globally
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 6.3.1: Proportion of domestic and industrial wastewater flows safely treated
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +29,7 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -70,6 +71,7 @@ QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 
 COVERAGE: >-
+  Auburn, Al
 
 COMPARABILITY: >-
 

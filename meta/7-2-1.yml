@@ -1,10 +1,9 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 7.2: By 2030, increase substantially the share of renewable energy in the global energy mix
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 7.2.1: Renewable energy percentage use in the total final energy consumption - reported at state level
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +27,11 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
+  ##Limitations:
   
+  As Auburn is a small city it is difficult to guage the amount of energy consumed in terms of renewable energy. It looks like most of Auburn's
+  energy comes from fossil fuel.
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -42,6 +45,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://www.energy.gov/sites/prod/files/2015/05/f22/AL-Energy%20Sector%20Risk%20Profile.pdf
 
 COMPILING_ORG: >-
 

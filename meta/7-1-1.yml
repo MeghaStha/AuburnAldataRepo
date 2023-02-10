@@ -1,10 +1,9 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 7.1: By 2030, ensure universal access to affordable, reliable and modern energy services
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 7.1.1: Proportion of population with access to electricity
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +27,8 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+  Everyone in Auburn has access to electricity services.
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -42,6 +42,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://findenergy.com/al/lee-county-electricity/#:~:text=Auburn%2C%20AL%20Electricity%20Overview&text=Auburn%20averages%20a%20residential%20electricity,residential%20electricity%20bill%20of%20%24150.88.
 
 COMPILING_ORG: >-
 
@@ -70,6 +71,7 @@ QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 
 COVERAGE: >-
+  Auburn, Al
 
 COMPARABILITY: >-
 

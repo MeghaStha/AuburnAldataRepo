@@ -1,10 +1,9 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 3: Ensure healthy lives and promote well-being for all at all ages
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 3.6: By 2020, halve the number of global deaths and injuries from road traffic accidents
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 3.6.1: Death count due to road traffic injuries - modified
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +27,9 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+  This indicator is reported as count as Auburn is a small city and 
+  calculating rate provides a very small number.
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -42,6 +43,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://www.city-data.com/accidents/acc-Auburn-Alabama.html
 
 COMPILING_ORG: >-
 
@@ -70,6 +72,7 @@ QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 
 COVERAGE: >-
+  Auburn, Al
 
 COMPARABILITY: >-
 

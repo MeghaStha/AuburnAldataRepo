@@ -57,6 +57,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://datausa.io/profile/geo/auburn-al
 
 COMPILING_ORG: >-
 

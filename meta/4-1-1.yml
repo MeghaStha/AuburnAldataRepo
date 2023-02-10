@@ -1,12 +1,9 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 SDG_TARGET: >-
-  Target 1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
-  have equal rights to economic resources, as well as access to basic services, ownership and control 
-  over land and other forms of property, inheritance, natural resources, appropriate new technology and 
-  financial services, including microfinance
+  Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes
 SDG_INDICATOR: >-
-  Indicator 1.4.1: Proportion of population living in households with access to basic services
+  Indicator 4.1.1: Proportion of children and young people in Pk and kindergarten proficient in (i) reading and (ii) mathematics - modified
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -30,12 +27,10 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  ## Definition:
-  
-  In Auburn there are proxy indicators that are reported to access the househols access to basic needs.
-  
+  ## Limitation
+  The data for Pre-K and kindergarten students as a whole was extracted.
+  No information was available based on sex or grade level.
 UNIT_MEASURE: >-
-  Percentage
 
 CLASS_SYSTEM: >-
 
@@ -48,7 +43,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  Auburn Comp Plan 2030
+  https://www.usnews.com/education/k12/alabama/districts/auburn-city-105870    https://www.niche.com/k12/d/auburn-city-schools-al/
 
 COMPILING_ORG: >-
 

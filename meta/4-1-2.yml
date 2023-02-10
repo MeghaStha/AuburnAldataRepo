@@ -1,10 +1,9 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 4.1.2: Completion rate high school and higher - modified
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +27,8 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-  
+  ## Limitation:
+  The completion rate data was not found divided into primary, secondary, and higher.
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -42,6 +42,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://www.census.gov/quickfacts/fact/table/leecountyalabama,auburncityalabama/EDU635220#EDU635220	
 
 COMPILING_ORG: >-
 
@@ -70,6 +71,7 @@ QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 
 COVERAGE: >-
+  Auburn, Al
 
 COMPARABILITY: >-
 

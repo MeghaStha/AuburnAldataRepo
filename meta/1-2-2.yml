@@ -37,6 +37,7 @@ STAT_CONC_DEF: >-
   The national poverty rate is the percentage of the total population living below the national poverty status.
     
   ## Concepts:
+  
   The Census Bureau records poverty status by houshold type and ratio of income to poverty level. 
   
 UNIT_MEASURE: Percentage

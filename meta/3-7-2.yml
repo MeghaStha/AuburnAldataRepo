@@ -1,10 +1,11 @@
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 3: Ensure healthy lives and promote well-being for all at all ages
 SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable situations and 
-  reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters
+  Target 3.7: By 2030, ensure universal access to sexual and reproductive 
+  health-care services, including for family planning, information and education, 
+  and the integration of reproductive health into national strategies and programmes
 SDG_INDICATOR: >-
-  Indicator 1.5.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
+  Indicator 3.7.2: Adolescent birth rate (aged 10–19 years) - modified
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
@@ -28,7 +29,10 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
+  ## Limitations:
   
+  This is not reported at city level but only at state level
+
 UNIT_MEASURE: >-
 
 CLASS_SYSTEM: >-
@@ -42,6 +46,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://www.cdc.gov/nchs/pressroom/states/alabama/al.htm 
 
 COMPILING_ORG: >-
 
@@ -70,6 +75,7 @@ QUALITY_ASSURE: >-
 QUALITY_ASSMNT: >-
 
 COVERAGE: >-
+  Alabama
 
 COMPARABILITY: >-
 

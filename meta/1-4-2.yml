@@ -47,6 +47,7 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
+  https://datausa.io/profile/geo/auburn-al?social-social_needs=exercise
 
 COMPILING_ORG: >-
 
