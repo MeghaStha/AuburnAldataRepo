@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "End",
             "type": "string",
             "constraints": {

@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "End",
             "type": "string",
             "constraints": {
@@ -50,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-2",
-  "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)"
+  "title": "Prevalence of malnutrition as overweight and obese - modified"
 }

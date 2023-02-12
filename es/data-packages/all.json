@@ -261,7 +261,7 @@
           }
         ]
       },
-      "title": "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo"
+      "title": "Percentage of third graders achieveing numeracy skills - modified"
     },
     {
       "path": "3-3-4/data.csv",
@@ -307,7 +307,7 @@
           }
         ]
       },
-      "title": "Incidencia de la hepatitis B por cada 100.000 habitantes"
+      "title": "Hepatitis B incidence rate reported at state level - modified"
     },
     {
       "path": "8-10-2/data.csv",
@@ -390,7 +390,7 @@
           }
         ]
       },
-      "title": "Proporción de niños, niñas y adolescentes que, a) en los cursos segundo y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo"
+      "title": "Proportion of children and young people in Pk and kindergarten proficient in (i) reading and (ii) mathematics - modified"
     },
     {
       "path": "3-9-1/data.csv",
@@ -515,7 +515,7 @@
           }
         ]
       },
-      "title": "Cobertura de los servicios de salud esenciales"
+      "title": "Coverage of essential health services by type and age - modified"
     },
     {
       "path": "1-1-1/data.csv",
@@ -639,6 +639,17 @@
             "title": "Year"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "End",
             "type": "string",
             "constraints": {
@@ -667,7 +678,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (porcentaje)"
+      "title": "Prevalence of anaemia in overall population (percentage) - modified"
     },
     {
       "path": "6-5-1/data.csv",
@@ -834,7 +845,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad por suicidio"
+      "title": "Suicide mortality death number"
     },
     {
       "path": "2-1-2/data.csv",
@@ -869,7 +880,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria"
+      "title": "Population suffering from food insecurity in percentage by county"
     },
     {
       "path": "7-b-1/data.csv",
@@ -992,7 +1003,7 @@
           }
         ]
       },
-      "title": "Proporción de empleo informal con respecto al empleo total, desglosada por sector y sexo"
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "3-7-2/data.csv",
@@ -1051,7 +1062,7 @@
           }
         ]
       },
-      "title": "Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años) por cada 1.000 mujeres de ese grupo de edad"
+      "title": "Adolescent birth rate (aged 10–19 years) - modified"
     },
     {
       "path": "8-8-1/data.csv",
@@ -1097,7 +1108,7 @@
           }
         ]
       },
-      "title": "Lesiones ocupacionales mortales y no mortales por cada 100.000 trabajadores, desglosadas por sexo y estatus migratorio"
+      "title": "Fatal occupational injuries count"
     },
     {
       "path": "3-7-1/data.csv",
@@ -1279,7 +1290,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad neonatal"
+      "title": "Neonatal mortality rate - modified and reported by county"
     },
     {
       "path": "6-5-2/data.csv",
@@ -1456,7 +1467,7 @@
           }
         ]
       },
-      "title": "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil en litros de alcohol puro"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in gallons - reported at state"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1504,7 +1515,7 @@
           }
         ]
       },
-      "title": "Proporción del total de la población adulta con derechos seguros de tenencia de la tierra: a) que posee documentación reconocida legalmente al respecto y b) considera seguros sus derechos, desglosada por sexo y tipo de tenencia"
+      "title": "Proportion of total adult household units with different type of occupancy - modified"
     },
     {
       "path": "1-b-1/data.csv",
@@ -1578,7 +1589,7 @@
           }
         ]
       },
-      "title": "Proporción de docentes con las calificaciones mínimas requeridas, por nivel educativo"
+      "title": "Proportion of teachers certified, teacher to student ratio, and presence of school counselor"
     },
     {
       "path": "3-b-3/data.csv",
@@ -1614,7 +1625,7 @@
           }
         ]
       },
-      "title": "Proporción de centros de salud que disponen de un conjunto básico de medicamentos esenciales asequibles de manera sostenible"
+      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
     },
     {
       "path": "1-2-2/data.csv",
@@ -1732,7 +1743,7 @@
           }
         ]
       },
-      "title": "Incidencia de la tuberculosis por cada 100.000 habitantes"
+      "title": "Tuberculosis incidence per 100,000 population - modified"
     },
     {
       "path": "3-2-1/data.csv",
@@ -1790,7 +1801,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad de niños menores de 5 años"
+      "title": "Infant mortality rate - modified and reported by county"
     },
     {
       "path": "4-2-1/data.csv",
@@ -1874,7 +1885,7 @@
           }
         ]
       },
-      "title": "Proporción y número de niños de entre 5 y 17 años que realizan trabajo infantil, desglosados por sexo y edad"
+      "title": "Number of children in child labor by age group"
     },
     {
       "path": "7-2-1/data.csv",
@@ -1921,7 +1932,7 @@
           }
         ]
       },
-      "title": "Proporción de energía renovable en el consumo final total de energía"
+      "title": "Renewable energy percentage use in the total final energy consumption - reported at state level"
     },
     {
       "path": "3-b-2/data.csv",
@@ -2234,7 +2245,7 @@
           }
         ]
       },
-      "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 habitantes"
+      "title": "Number of deaths and injured attributed to disasters reported to state"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2459,7 +2470,7 @@
           }
         ]
       },
-      "title": "Tasa de crecimiento anual del PIB real per cápita"
+      "title": "Annual growth rate of real GDP in millions of chained 2012 dollars"
     },
     {
       "path": "8-5-1/data.csv",
@@ -2537,7 +2548,7 @@
           }
         ]
       },
-      "title": "Ingreso medio por hora de las personas empleadas, desglosado por sexo, edad, ocupación y personas con discapacidad"
+      "title": "Mean hourly wages in dollars based on type of occupation - modified"
     },
     {
       "path": "6-4-2/data.csv",
@@ -2572,7 +2583,7 @@
           }
         ]
       },
-      "title": "Nivel de estrés hídrico: extracción de agua dulce en proporción a los recursos de agua dulce disponibles"
+      "title": "Level of water stress recorded as freshwater withdrawal by Auburn University - modified"
     },
     {
       "path": "7-3-1/data.csv",
@@ -2626,6 +2637,17 @@
             "title": "Year"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
             "name": "End",
             "type": "string",
             "constraints": {
@@ -2656,7 +2678,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)"
+      "title": "Prevalence of malnutrition as overweight and obese - modified"
     },
     {
       "path": "1-5-3/data.csv",
@@ -2763,7 +2785,7 @@
           }
         ]
       },
-      "title": "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo"
+      "title": "Number of students in organized learning"
     },
     {
       "path": "6-4-1/data.csv",
@@ -2955,7 +2977,7 @@
           }
         ]
       },
-      "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave"
+      "title": "Number of new HIV infections by race reported at county - modified"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3098,7 +3120,7 @@
           }
         ]
       },
-      "title": "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
+      "title": "Unemployment rate - modified"
     },
     {
       "path": "8-10-1/data.csv",
@@ -3133,7 +3155,7 @@
           }
         ]
       },
-      "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos"
+      "title": "Number of commercial bank branches"
     },
     {
       "path": "2-1-1/data.csv",
@@ -3185,6 +3207,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
           },
           {
             "name": "End",
@@ -3285,7 +3318,7 @@
           }
         ]
       },
-      "title": "Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme reported at state level"
     },
     {
       "path": "2-4-1/data.csv",
@@ -3367,7 +3400,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad materna"
+      "title": "Maternal mortality ratio - reported on state level"
     },
     {
       "path": "4-b-1/data.csv",
@@ -3480,7 +3513,7 @@
           }
         ]
       },
-      "title": "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex, age and race"
     },
     {
       "path": "6-3-2/data.csv",
@@ -3751,7 +3784,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad por lesiones debidas a accidentes de tráfico"
+      "title": "Death count due to road traffic injuries - modified"
     },
     {
       "path": "3-d-2/data.csv",
@@ -3957,7 +3990,7 @@
           }
         ]
       },
-      "title": "Prevalencia del consumo actual de tabaco a partir de los 15 años de edad (edades ajustadas)"
+      "title": "High school youth with any use of tobacco products reported at state level"
     },
     {
       "path": "6-6-1/data.csv",

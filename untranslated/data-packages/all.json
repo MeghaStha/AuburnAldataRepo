@@ -241,7 +241,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-6-1-title"
+      "title": "Percentage of third graders achieveing numeracy skills - modified"
     },
     {
       "path": "3-3-4/data.csv",
@@ -283,7 +283,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-4-title"
+      "title": "Hepatitis B incidence rate reported at state level - modified"
     },
     {
       "path": "8-10-2/data.csv",
@@ -359,7 +359,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-1-1-title"
+      "title": "Proportion of children and young people in Pk and kindergarten proficient in (i) reading and (ii) mathematics - modified"
     },
     {
       "path": "3-9-1/data.csv",
@@ -474,7 +474,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-1-title"
+      "title": "Coverage of essential health services by type and age - modified"
     },
     {
       "path": "1-1-1/data.csv",
@@ -589,6 +589,16 @@
             "type": "integer"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            }
+          },
+          {
             "name": "End",
             "type": "string",
             "constraints": {
@@ -614,7 +624,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-3-title"
+      "title": "Prevalence of anaemia in overall population (percentage) - modified"
     },
     {
       "path": "6-5-1/data.csv",
@@ -767,7 +777,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-4-2-title"
+      "title": "Suicide mortality death number"
     },
     {
       "path": "2-1-2/data.csv",
@@ -799,7 +809,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-2-title"
+      "title": "Population suffering from food insecurity in percentage by county"
     },
     {
       "path": "7-b-1/data.csv",
@@ -912,7 +922,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-3-1-title"
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "3-7-2/data.csv",
@@ -966,7 +976,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-7-2-title"
+      "title": "Adolescent birth rate (aged 10–19 years) - modified"
     },
     {
       "path": "8-8-1/data.csv",
@@ -1008,7 +1018,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-8-1-title"
+      "title": "Fatal occupational injuries count"
     },
     {
       "path": "3-7-1/data.csv",
@@ -1175,7 +1185,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-2-title"
+      "title": "Neonatal mortality rate - modified and reported by county"
     },
     {
       "path": "6-5-2/data.csv",
@@ -1337,7 +1347,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-2-title"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in gallons - reported at state"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1381,7 +1391,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-2-title"
+      "title": "Proportion of total adult household units with different type of occupancy - modified"
     },
     {
       "path": "1-b-1/data.csv",
@@ -1449,7 +1459,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-c-1-title"
+      "title": "Proportion of teachers certified, teacher to student ratio, and presence of school counselor"
     },
     {
       "path": "3-b-3/data.csv",
@@ -1482,7 +1492,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-3-title"
+      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
     },
     {
       "path": "1-2-2/data.csv",
@@ -1591,7 +1601,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-2-title"
+      "title": "Tuberculosis incidence per 100,000 population - modified"
     },
     {
       "path": "3-2-1/data.csv",
@@ -1644,7 +1654,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-1-title"
+      "title": "Infant mortality rate - modified and reported by county"
     },
     {
       "path": "4-2-1/data.csv",
@@ -1721,7 +1731,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-7-1-title"
+      "title": "Number of children in child labor by age group"
     },
     {
       "path": "7-2-1/data.csv",
@@ -1764,7 +1774,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-2-1-title"
+      "title": "Renewable energy percentage use in the total final energy consumption - reported at state level"
     },
     {
       "path": "3-b-2/data.csv",
@@ -2051,7 +2061,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-1-title"
+      "title": "Number of deaths and injured attributed to disasters reported to state"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2257,7 +2267,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-1-1-title"
+      "title": "Annual growth rate of real GDP in millions of chained 2012 dollars"
     },
     {
       "path": "8-5-1/data.csv",
@@ -2330,7 +2340,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-5-1-title"
+      "title": "Mean hourly wages in dollars based on type of occupation - modified"
     },
     {
       "path": "6-4-2/data.csv",
@@ -2362,7 +2372,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-4-2-title"
+      "title": "Level of water stress recorded as freshwater withdrawal by Auburn University - modified"
     },
     {
       "path": "7-3-1/data.csv",
@@ -2412,6 +2422,16 @@
             "type": "integer"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            }
+          },
+          {
             "name": "End",
             "type": "string",
             "constraints": {
@@ -2439,7 +2459,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-2-title"
+      "title": "Prevalence of malnutrition as overweight and obese - modified"
     },
     {
       "path": "1-5-3/data.csv",
@@ -2537,7 +2557,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-2-2-title"
+      "title": "Number of students in organized learning"
     },
     {
       "path": "6-4-1/data.csv",
@@ -2713,7 +2733,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-1-title"
+      "title": "Number of new HIV infections by race reported at county - modified"
     },
     {
       "path": "3-5-1/data.csv",
@@ -2844,7 +2864,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-5-2-title"
+      "title": "Unemployment rate - modified"
     },
     {
       "path": "8-10-1/data.csv",
@@ -2876,7 +2896,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-10-1-title"
+      "title": "Number of commercial bank branches"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2924,6 +2944,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            }
           },
           {
             "name": "End",
@@ -3015,7 +3045,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-1-title"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme reported at state level"
     },
     {
       "path": "2-4-1/data.csv",
@@ -3090,7 +3120,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-1-title"
+      "title": "Maternal mortality ratio - reported on state level"
     },
     {
       "path": "4-b-1/data.csv",
@@ -3194,7 +3224,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-3-1-title"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex, age and race"
     },
     {
       "path": "6-3-2/data.csv",
@@ -3443,7 +3473,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-1-title"
+      "title": "Death count due to road traffic injuries - modified"
     },
     {
       "path": "3-d-2/data.csv",
@@ -3632,7 +3662,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-a-1-title"
+      "title": "High school youth with any use of tobacco products reported at state level"
     },
     {
       "path": "6-6-1/data.csv",

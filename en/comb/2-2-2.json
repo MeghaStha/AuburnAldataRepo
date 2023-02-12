@@ -1,1 +1,1 @@
-{"data":{"Year":[2000,2000,2000],"End":["2020","2020","2020"],"Units":["people that are obese","people that ever were obese","people that are overweight"],"Value":[28.5,38.5,24.6]},"edges":[]}
+{"data":{"Year":[2000,2000,2000],"Coverage":["Auburn","Auburn","Auburn"],"End":["2020","2020","2020"],"Units":["people that are obese","people that ever were obese","people that are overweight"],"Value":[28.5,38.5,24.6]},"edges":{"From":["Coverage"],"To":["End"]}}

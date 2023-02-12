@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            }
+          },
+          {
             "name": "End",
             "type": "string",
             "constraints": {
@@ -44,5 +54,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-3",
-  "title": "global_indicators.2-2-3-title"
+  "title": "Prevalence of anaemia in overall population (percentage) - modified"
 }
