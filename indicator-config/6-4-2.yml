@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Level of water stress: freshwater withdrawal by Auburn University - modified
+graph_title: Level of water stress recoded as freshwater withdrawal by Auburn University - modified
 graph_titles: []
 graph_titles:
   - unit: Gallons
