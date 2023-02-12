@@ -28,7 +28,7 @@ graph_types:
     type: bar
   - unit: Total
     type: bar
-indicator_name: Level of water stress: freshwater withdrawal by Auburn University - modified
+indicator_name: Level of water stress recorded as freshwater withdrawal by Auburn University - modified
 indicator_number: '6.4.2'
 national_geographical_coverage: ''
 page_content: ''
