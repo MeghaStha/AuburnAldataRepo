@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-1-1-title
+graph_title: Annual growth rate of real GDP in millions of chained 2012 dollars
 graph_titles: []
 graph_titles:
   - unit: Millions
@@ -28,7 +28,7 @@ graph_types:
     type: line
   - unit: Total
     type: bar
-indicator_name: global_indicators.8-1-1-title
+indicator_name: Annual growth rate of real GDP in millions of chained 2012 dollars
 indicator_number: '8.1.1'
 national_geographical_coverage: ''
 page_content: ''

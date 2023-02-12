@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-5-2-title
+graph_title: Unemployment rate - modified
 graph_titles: []
 graph_titles:
   - unit: Percent
@@ -28,7 +28,7 @@ graph_types:
     type: line
   - unit: Total
     type: bar
-indicator_name: global_indicators.8-5-2-title
+indicator_name: Unemployment rate - modified
 indicator_number: '8.5.2'
 national_geographical_coverage: ''
 page_content: ''

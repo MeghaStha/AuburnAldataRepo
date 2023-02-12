@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-8-1-title
+graph_title: Fatal occupational injuries count
 graph_titles: []
 graph_titles:
   - unit: Count
@@ -25,10 +25,10 @@ graph_titles:
 graph_type: bar
 graph_types:
   - unit: Count
-    type: line
+    type: bar
   - unit: Total
     type: bar
-indicator_name: global_indicators.8-8-1-title
+indicator_name: Fatal occupational injuries count
 indicator_number: '8.8.1'
 national_geographical_coverage: ''
 page_content: ''

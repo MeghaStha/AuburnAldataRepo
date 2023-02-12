@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-a-1-title
+graph_title: High school youth with any use of tobacco products reported at state level
 graph_titles: []
 graph_titles:
   - unit: Percent
@@ -28,7 +28,7 @@ graph_types:
     type: line
   - unit: Total
     type: bar
-indicator_name: global_indicators.3-a-1-title
+indicator_name: High school youth with any use of tobacco products reported at state level
 indicator_number: '3.a.1'
 national_geographical_coverage: ''
 page_content: ''

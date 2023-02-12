@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.2-2-2-title
+graph_title: Prevalence of malnutrition as overweight and obese - modified
 graph_titles: []
 graph_titles:
   - unit: Percent
@@ -28,7 +28,7 @@ graph_types:
     type: line
   - unit: Total
     type: bar
-indicator_name: global_indicators.2-2-2-title
+indicator_name: Prevalence of malnutrition as overweight and obese - modified
 indicator_number: '2.2.2'
 national_geographical_coverage: ''
 page_content: ''

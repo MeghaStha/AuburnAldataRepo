@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-4-2-title
+graph_title: Suicide mortality death number
 graph_titles: []
 graph_titles:
   - unit: Count
@@ -28,7 +28,7 @@ graph_types:
     type: line
   - unit: Total
     type: bar
-indicator_name: global_indicators.3-4-2-title
+indicator_name: Suicide mortality death number
 indicator_number: '3.4.2'
 national_geographical_coverage: ''
 page_content: ''

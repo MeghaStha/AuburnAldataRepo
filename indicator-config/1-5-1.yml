@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-5-1-title
+graph_title: Number of deaths and injured attributed to disasters reported to state
 graph_titles: []
 graph_titles:
   - unit: Count
@@ -28,7 +28,7 @@ graph_types:
     type: line
   - unit: Total
     type: bar
-indicator_name: global_indicators.1-5-1-title
+indicator_name: Number of deaths and injured attributed to disasters reported to state
 indicator_number: '1.5.1'
 national_geographical_coverage: ''
 page_content: ''
