@@ -3,91 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Population",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population <18 in Households",
-                "Population 18-64 in Households",
-                "Population 65+ in Households",
-                "Total population",
-                "Population >16 years who works",
-                ""
-              ]
-            },
-            "title": "Population"
-          },
-          {
-            "name": "Service Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Have a Computer",
-                "Have NO Computer",
-                "With an Internet Subscription",
-                "Dial-Up Alone",
-                "Broadband",
-                "Satellite Service",
-                "Other Service",
-                "Internet Access with no Subscription",
-                "With No Internet Access",
-                "Drove alone",
-                "Carpooled",
-                "Public transportation (excluding taxicab)",
-                "Bus or trolley bus",
-                "Light rail, streetcar or trolley",
-                "Subway or elevated",
-                "Long-distance/Commuter Train",
-                "Ferryboat",
-                "Taxicab",
-                "Motorcycle",
-                "Bicycle",
-                "Walked",
-                "Other means",
-                "Worked at home",
-                ""
-              ]
-            },
-            "title": "Service Type"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población que vive en hogares con acceso a los servicios básicos"
-    },
-    {
-      "path": "6-a-1/data.csv",
-      "name": "6-a-1",
+      "path": "3-3-3/data.csv",
+      "name": "3-3-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -119,153 +36,11 @@
           }
         ]
       },
-      "title": "Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno"
+      "title": "Incidencia de la malaria por cada 1.000 habitantes"
     },
     {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
-    },
-    {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
-    },
-    {
-      "path": "1-a-2/data.csv",
-      "name": "1-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
-    },
-    {
-      "path": "4-6-1/data.csv",
-      "name": "4-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "End",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            },
-            "title": "End"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Reading in third grader",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Percentage of third graders achieveing numeracy skills - modified"
-    },
-    {
-      "path": "3-3-4/data.csv",
-      "name": "3-3-4",
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -294,7 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rate by State",
+                "Percent maternal deaths by state",
                 ""
               ]
             },
@@ -307,11 +82,11 @@
           }
         ]
       },
-      "title": "Hepatitis B incidence rate reported at state level - modified"
+      "title": "Maternal mortality ratio - reported on state level"
     },
     {
-      "path": "8-10-2/data.csv",
-      "name": "8-10-2",
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -343,11 +118,11 @@
           }
         ]
       },
-      "title": "Proporción de adultos (a partir de 15 años de edad) que tienen una cuenta en un banco u otra institución financiera o un proveedor de servicios de dinero móvil"
+      "title": "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
     },
     {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
+      "path": "4-b-1/data.csv",
+      "name": "4-b-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -361,23 +136,59 @@
             "title": "Year"
           },
           {
-            "name": "Grade Level",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "PK and kindergarten",
+                "A",
+                "B",
                 ""
               ]
             },
-            "title": "Grade Level"
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent of readiness",
-                "Percent of mathematics",
+                "Case by county",
+                "Rate per 100,000 by county",
                 ""
               ]
             },
@@ -385,16 +196,64 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Proportion of children and young people in Pk and kindergarten proficient in (i) reading and (ii) mathematics - modified"
+      "title": "Tuberculosis incidence per 100,000 population - modified"
     },
     {
-      "path": "3-9-1/data.csv",
-      "name": "3-9-1",
+      "path": "1-4-2/data.csv",
+      "name": "1-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owner Occupied Housing Units",
+                "Renter Occupied Housing Units",
+                "Vacant Housing Units",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of total adult household units with different type of occupancy - modified"
+    },
+    {
+      "path": "1-5-3/data.csv",
+      "name": "1-5-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -426,7 +285,81 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente"
+      "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
+    },
+    {
+      "path": "4-c-1/data.csv",
+      "name": "4-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Student-teacher ratio",
+                "Percentage of teachers certified",
+                "Teachers with 3 or more years experience",
+                "Full time school counselors",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of teachers certified, teacher to student ratio, and presence of school counselor"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
     },
     {
       "path": "3-8-1/data.csv",
@@ -516,6 +449,3017 @@
         ]
       },
       "title": "Coverage of essential health services by type and age - modified"
+    },
+    {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 1 hour",
+                "Under 1 day",
+                "1-6 days",
+                "7-27 days",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent of Infant Deaths with preterm births",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Neonatal mortality rate - modified and reported by county"
+    },
+    {
+      "path": "8-6-1/data.csv",
+      "name": "8-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Household",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Income in the past 12 months below poverty level",
+                "Married-couple family",
+                "Other family - male householder (no wife present)",
+                "Other family - female householder (no husband present)",
+                "Nonfamily household - male householder",
+                "Nonfamily household - female householder",
+                "Income in the past 12 months at or above poverty level",
+                ""
+              ]
+            },
+            "title": "Household"
+          },
+          {
+            "name": "Ratio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under .50",
+                ".50 to .99",
+                "1.00 to 1.24",
+                "1.25 to 1.49",
+                "1.50 to 1.84",
+                "1.85 to 1.99",
+                "2.00 and over",
+                ""
+              ]
+            },
+            "title": "Ratio"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent by income below poverty level",
+                "Percent by income at or above poverty level",
+                "Population by ratio of income to poverty level ",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales"
+    },
+    {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de partos atendidos por personal sanitario especializado"
+    },
+    {
+      "path": "2-3-2/data.csv",
+      "name": "2-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Gender",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena"
+    },
+    {
+      "path": "1-b-1/data.csv",
+      "name": "1-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gasto público social en favor de los pobres"
+    },
+    {
+      "path": "7-3-1/data.csv",
+      "name": "7-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Intensidad energética medida en función de la energía primaria y el PIB"
+    },
+    {
+      "path": "6-3-2/data.csv",
+      "name": "6-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de masas de agua de buena calidad"
+    },
+    {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables"
+    },
+    {
+      "path": "8-b-1/data.csv",
+      "name": "8-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Existencia de una estrategia nacional organizada y en marcha para el empleo de los jóvenes, como estrategia independiente o como parte de una estrategia nacional de empleo"
+    },
+    {
+      "path": "3-3-5/data.csv",
+      "name": "3-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de personas que requieren intervenciones contra enfermedades tropicales desatendidas"
+    },
+    {
+      "path": "6-5-2/data.csv",
+      "name": "6-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
+    },
+    {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "End",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                ""
+              ]
+            },
+            "title": "End"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "people that are obese",
+                "people that ever were obese",
+                "people that are overweight",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of malnutrition as overweight and obese - modified"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Grade Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PK and kindergarten",
+                ""
+              ]
+            },
+            "title": "Grade Level"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent of readiness",
+                "Percent of mathematics",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children and young people in Pk and kindergarten proficient in (i) reading and (ii) mathematics - modified"
+    },
+    {
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
+    },
+    {
+      "path": "4-2-1/data.csv",
+      "name": "4-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black or Other",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent by county",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Infant mortality rate - modified and reported by county"
+    },
+    {
+      "path": "6-5-1/data.csv",
+      "name": "6-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Grado de gestión integrada de los recursos hídricos"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths by county",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Suicide mortality death number"
+    },
+    {
+      "path": "3-7-2/data.csv",
+      "name": "3-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate of births by state",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Adolescent birth rate (aged 10–19 years) - modified"
+    },
+    {
+      "path": "3-d-2/data.csv",
+      "name": "3-d-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Grade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Grade"
+          },
+          {
+            "name": "Planet",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                ""
+              ]
+            },
+            "title": "Planet"
+          },
+          {
+            "name": "Fruit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Apples",
+                "Oranges",
+                "Lemons",
+                ""
+              ]
+            },
+            "title": "Fruit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de infecciones del torrente sanguíneo debidas a determinados organismos resistentes a los antimicrobianos seleccionados"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población que tiene acceso a la electricidad"
+    },
+    {
+      "path": "4-a-1/data.csv",
+      "name": "4-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de escuelas que ofrecen servicios básicos, desglosada por tipo de servicio"
+    },
+    {
+      "path": "3-3-4/data.csv",
+      "name": "3-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate by State",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Hepatitis B incidence rate reported at state level - modified"
+    },
+    {
+      "path": "8-5-1/data.csv",
+      "name": "8-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, all occupations",
+                "Management",
+                "Business and financial operations",
+                "Computer and mathematical",
+                "Architecture and engineering",
+                "Life, physical, and social science",
+                "Community and social service",
+                "Legal",
+                "Educational instruction and library",
+                "Arts, design, entertainment, sports, and media",
+                "Healthcare practitioners and technical",
+                "Healthcare support",
+                "Protective service",
+                "Food preparation and serving related",
+                "Building and grounds cleaning and maintenance",
+                "Personal care and service",
+                "Sales and related",
+                "Office and administrative support",
+                "Farming, fishing, and forestry",
+                "Construction and extraction",
+                "Installation, maintenance, and repair",
+                "Production",
+                "Transportation and material moving",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mean hourly wages indollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Unnamed: 4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Mean hourly wages in dollars based on type of occupation - modified"
+    },
+    {
+      "path": "6-4-1/data.csv",
+      "name": "6-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Cambio en el uso eficiente de los recursos hídricos con el paso del tiempo"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
+    },
+    {
+      "path": "1-5-2/data.csv",
+      "name": "1-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "End",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1999",
+                "2009",
+                "2017",
+                ""
+              ]
+            },
+            "title": "End"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions in 100k dollars",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Pérdidas económicas directas atribuidas a los desastres en relación con el producto interno bruto (PIB) mundial"
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Injury Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fatal Injury",
+                ""
+              ]
+            },
+            "title": "Injury Type"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Count",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fatal occupational injuries count"
+    },
+    {
+      "path": "8-4-1/data.csv",
+      "name": "8-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Huella material en términos absolutos, huella material per cápita y huella material por PIB"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "End",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1999",
+                "2009",
+                "2017",
+                ""
+              ]
+            },
+            "title": "End"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deaths",
+                "Injuries",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of deaths and injured attributed to disasters reported to state"
+    },
+    {
+      "path": "3-c-1/data.csv",
+      "name": "3-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": " Source Years",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                ""
+              ]
+            },
+            "title": " Source Years"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Patient to Primary Care Physician Ratio",
+                "Patient to Dentist Ratio",
+                "Patient to Mental Health Provider Ratio",
+                "Other Primary Care Providers",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Densidad y distribución del personal sanitario"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lee County",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths by county",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas"
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent ",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unemployment rate - modified"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of students",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of students in organized learning"
+    },
+    {
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Overall by county",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage by county",
+                ""
+              ]
+            },
+            "title": "Overall by county"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Population suffering from food insecurity in percentage by county"
+    },
+    {
+      "path": "3-5-2/data.csv",
+      "name": "3-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in gallons",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in gallons - reported at state"
+    },
+    {
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)"
+    },
+    {
+      "path": "3-a-1/data.csv",
+      "name": "3-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "State",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "High school youth with any tobacco product",
+                "High school youth with cigarette",
+                "Total adults with tobacco",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "High school youth with any use of tobacco products reported at state level"
+    },
+    {
+      "path": "6-b-1/data.csv",
+      "name": "6-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua y el saneamiento"
+    },
+    {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "End",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                ""
+              ]
+            },
+            "title": "End"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "people that have anemia",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of anaemia in overall population (percentage) - modified"
+    },
+    {
+      "path": "8-2-1/data.csv",
+      "name": "8-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de crecimiento anual del PIB real por persona empleada"
+    },
+    {
+      "path": "6-a-1/data.csv",
+      "name": "6-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno"
+    },
+    {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
+    },
+    {
+      "path": "3-d-1/data.csv",
+      "name": "3-d-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación para emergencias de salud"
+    },
+    {
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Population",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population <18 in Households",
+                "Population 18-64 in Households",
+                "Population 65+ in Households",
+                "Total population",
+                "Population >16 years who works",
+                ""
+              ]
+            },
+            "title": "Population"
+          },
+          {
+            "name": "Service Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Have a Computer",
+                "Have NO Computer",
+                "With an Internet Subscription",
+                "Dial-Up Alone",
+                "Broadband",
+                "Satellite Service",
+                "Other Service",
+                "Internet Access with no Subscription",
+                "With No Internet Access",
+                "Drove alone",
+                "Carpooled",
+                "Public transportation (excluding taxicab)",
+                "Bus or trolley bus",
+                "Light rail, streetcar or trolley",
+                "Subway or elevated",
+                "Long-distance/Commuter Train",
+                "Ferryboat",
+                "Taxicab",
+                "Motorcycle",
+                "Bicycle",
+                "Walked",
+                "Other means",
+                "Worked at home",
+                ""
+              ]
+            },
+            "title": "Service Type"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población que vive en hogares con acceso a los servicios básicos"
+    },
+    {
+      "path": "3-b-3/data.csv",
+      "name": "3-b-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de centros de salud que disponen de un conjunto básico de medicamentos esenciales asequibles de manera sostenible"
+    },
+    {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalencia de la subalimentación"
+    },
+    {
+      "path": "1-5-4/data.csv",
+      "name": "1-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
+    },
+    {
+      "path": "1-a-1/data.csv",
+      "name": "1-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor"
+    },
+    {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total real gross domestic product in millions of chained 2012 dollars",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP in millions of chained 2012 dollars"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 18 years",
+                "18 to 64 years",
+                "65 years and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent by Age",
+                "Percent by Gender",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
+    },
+    {
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón"
+    },
+    {
+      "path": "1-a-2/data.csv",
+      "name": "1-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
+    },
+    {
+      "path": "4-7-1/data.csv",
+      "name": "4-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
+    },
+    {
+      "path": "7-a-1/data.csv",
+      "name": "7-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos"
+    },
+    {
+      "path": "8-4-2/data.csv",
+      "name": "8-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group A",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Group A",
+                ""
+              ]
+            },
+            "title": "Group A"
+          },
+          {
+            "name": "Group B",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Group B",
+                ""
+              ]
+            },
+            "title": "Group B"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Auburn",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "End",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                ""
+              ]
+            },
+            "title": "End"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "High school graduate and higher",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Completion rate high school and higher - modified"
+    },
+    {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of Employement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-farm jobs",
+                "Mining, Logging, and Construction",
+                "Leisure and Hospitality",
+                "Trade, Transporation, and Utilities",
+                "Manufacturing",
+                "Other Services",
+                ""
+              ]
+            },
+            "title": "Type of Employement"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number in thousands",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of informal employment in total employment, by sector and sex"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años"
+    },
+    {
+      "path": "8-10-2/data.csv",
+      "name": "8-10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de adultos (a partir de 15 años de edad) que tienen una cuenta en un banco u otra institución financiera o un proveedor de servicios de dinero móvil"
+    },
+    {
+      "path": "4-3-1/data.csv",
+      "name": "4-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Race",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "White",
+                "Black",
+                "American Indian",
+                "Asian",
+                "Hispanic",
+                ""
+              ]
+            },
+            "title": "Race"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-64",
+                "65 and over",
+                ""
+              ]
+            },
+            "title": "Age Group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex, age and race"
+    },
+    {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
+    },
+    {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de los flujos de aguas residuales domésticas e industriales tratados de manera adecuada"
+    },
+    {
+      "path": "8-7-1/data.csv",
+      "name": "8-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 5 years",
+                "5 to 14 years",
+                "15 to 19 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Count",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of children in child labor by age group"
+    },
+    {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Cobertura de los tratamientos(farmacológicos y psicosociales y servicios de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas"
+    },
+    {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios"
+    },
+    {
+      "path": "3-b-2/data.csv",
+      "name": "3-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total neto de asistencia oficial para el desarrollo destinado a los sectores de la investigación médica y la atención sanitaria básica"
+    },
+    {
+      "path": "6-6-1/data.csv",
+      "name": "6-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo"
+    },
+    {
+      "path": "7-2-1/data.csv",
+      "name": "7-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Coverage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alabama",
+                ""
+              ]
+            },
+            "title": "Coverage"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Solar",
+                "Biomass",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Renewable energy percentage use in the total final energy consumption - reported at state level"
     },
     {
       "path": "1-1-1/data.csv",
@@ -624,65 +3568,8 @@
       "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)"
     },
     {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Auburn",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "End",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "End"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "people that have anemia",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of anaemia in overall population (percentage) - modified"
-    },
-    {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
+      "path": "8-8-2/data.csv",
+      "name": "8-8-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -714,11 +3601,11 @@
           }
         ]
       },
-      "title": "Grado de gestión integrada de los recursos hídricos"
+      "title": "Nivel de cumplimiento nacional de los derechos laborales (libertad de asociación y negociación colectiva) con arreglo a las fuentes textuales de la Organización Internacional del Trabajo (OIT) y la legislación interna, desglosado por sexo y estatus migratorio"
     },
     {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -750,462 +3637,7 @@
           }
         ]
       },
-      "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables"
-    },
-    {
-      "path": "8-6-1/data.csv",
-      "name": "8-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación"
-    },
-    {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Race",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Black",
-                "Other",
-                ""
-              ]
-            },
-            "title": "Race"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lee County",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of deaths by county",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Suicide mortality death number"
-    },
-    {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Overall by county",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage by county",
-                ""
-              ]
-            },
-            "title": "Overall by county"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Population suffering from food insecurity in percentage by county"
-    },
-    {
-      "path": "7-b-1/data.csv",
-      "name": "7-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
-    },
-    {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Type of Employement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-farm jobs",
-                "Mining, Logging, and Construction",
-                "Leisure and Hospitality",
-                "Trade, Transporation, and Utilities",
-                "Manufacturing",
-                "Other Services",
-                ""
-              ]
-            },
-            "title": "Type of Employement"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number in thousands",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
-    },
-    {
-      "path": "3-7-2/data.csv",
-      "name": "3-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Race",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Black",
-                "Other",
-                ""
-              ]
-            },
-            "title": "Race"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Alabama",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rate of births by state",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Adolescent birth rate (aged 10–19 years) - modified"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Injury Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fatal Injury",
-                ""
-              ]
-            },
-            "title": "Injury Type"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Count",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fatal occupational injuries count"
-    },
-    {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
-    },
-    {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Under 18 years",
-                "18 to 64 years",
-                "65 years and over",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent by Age",
-                "Percent by Gender",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
+      "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1244,57 +3676,8 @@
       "title": "Tasa de mortalidad atribuida a intoxicaciones involuntarias"
     },
     {
-      "path": "3-2-2/data.csv",
-      "name": "3-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Under 1 hour",
-                "Under 1 day",
-                "1-6 days",
-                "7-27 days",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent of Infant Deaths with preterm births",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Neonatal mortality rate - modified and reported by county"
-    },
-    {
-      "path": "6-5-2/data.csv",
-      "name": "6-5-2",
+      "path": "3-9-2/data.csv",
+      "name": "3-9-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1326,11 +3709,11 @@
           }
         ]
       },
-      "title": "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
+      "title": "Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))"
     },
     {
-      "path": "4-7-1/data.csv",
-      "name": "4-7-1",
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1362,11 +3745,11 @@
           }
         ]
       },
-      "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
+      "title": "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gastos o ingresos de los hogares"
     },
     {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
+      "path": "4-6-1/data.csv",
+      "name": "4-6-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1380,81 +3763,22 @@
             "title": "Year"
           },
           {
-            "name": "Race",
+            "name": "End",
             "type": "string",
             "constraints": {
               "enum": [
-                "White",
-                "Black",
-                "Other",
+                "2022",
                 ""
               ]
             },
-            "title": "Race"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lee County",
-                ""
-              ]
-            },
-            "title": "Coverage"
+            "title": "End"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of deaths by county",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas"
-    },
-    {
-      "path": "3-5-2/data.csv",
-      "name": "3-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Alabama",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "in gallons",
+                "Reading in third grader",
                 ""
               ]
             },
@@ -1467,11 +3791,11 @@
           }
         ]
       },
-      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in gallons - reported at state"
+      "title": "Percentage of third graders achieveing numeracy skills - modified"
     },
     {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
+      "path": "3-b-1/data.csv",
+      "name": "3-b-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1485,17 +3809,15 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Owner Occupied Housing Units",
-                "Renter Occupied Housing Units",
-                "Vacant Housing Units",
+                "Vaccination percent",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Status"
           },
           {
             "name": "Units",
@@ -1515,11 +3837,11 @@
           }
         ]
       },
-      "title": "Proportion of total adult household units with different type of occupancy - modified"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme reported at state level"
     },
     {
-      "path": "1-b-1/data.csv",
-      "name": "1-b-1",
+      "path": "8-10-1/data.csv",
+      "name": "8-10-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1531,341 +3853,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gasto público social en favor de los pobres"
-    },
-    {
-      "path": "4-c-1/data.csv",
-      "name": "4-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Student-teacher ratio",
-                "Percentage of teachers certified",
-                "Teachers with 3 or more years experience",
-                "Full time school counselors",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of teachers certified, teacher to student ratio, and presence of school counselor"
-    },
-    {
-      "path": "3-b-3/data.csv",
-      "name": "3-b-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de centros de salud que disponen de un conjunto básico de medicamentos esenciales asequibles de manera sostenible"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Household",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Income in the past 12 months below poverty level",
-                "Married-couple family",
-                "Other family - male householder (no wife present)",
-                "Other family - female householder (no husband present)",
-                "Nonfamily household - male householder",
-                "Nonfamily household - female householder",
-                "Income in the past 12 months at or above poverty level",
-                ""
-              ]
-            },
-            "title": "Household"
-          },
-          {
-            "name": "Ratio",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Under .50",
-                ".50 to .99",
-                "1.00 to 1.24",
-                "1.25 to 1.49",
-                "1.50 to 1.84",
-                "1.85 to 1.99",
-                "2.00 and over",
-                ""
-              ]
-            },
-            "title": "Ratio"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent by income below poverty level",
-                "Percent by income at or above poverty level",
-                "Population by ratio of income to poverty level ",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales"
-    },
-    {
-      "path": "3-3-2/data.csv",
-      "name": "3-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lee County",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Case by county",
-                "Rate per 100,000 by county",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tuberculosis incidence per 100,000 population - modified"
-    },
-    {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Race",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Black or Other",
-                ""
-              ]
-            },
-            "title": "Race"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lee County",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent by county",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Infant mortality rate - modified and reported by county"
-    },
-    {
-      "path": "4-2-1/data.csv",
-      "name": "4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo"
-    },
-    {
-      "path": "8-7-1/data.csv",
-      "name": "8-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Under 5 years",
-                "5 to 14 years",
-                "15 to 19 years",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "Units",
@@ -1885,58 +3872,11 @@
           }
         ]
       },
-      "title": "Number of children in child labor by age group"
+      "title": "Number of commercial bank branches"
     },
     {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Alabama",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Solar",
-                "Biomass",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Renewable energy percentage use in the total final energy consumption - reported at state level"
-    },
-    {
-      "path": "3-b-2/data.csv",
-      "name": "3-b-2",
+      "path": "3-9-1/data.csv",
+      "name": "3-9-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1968,478 +3908,11 @@
           }
         ]
       },
-      "title": "Total neto de asistencia oficial para el desarrollo destinado a los sectores de la investigación médica y la atención sanitaria básica"
+      "title": "Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente"
     },
     {
-      "path": "1-5-2/data.csv",
-      "name": "1-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "End",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1999",
-                "2009",
-                "2017",
-                ""
-              ]
-            },
-            "title": "End"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millions in 100k dollars",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Pérdidas económicas directas atribuidas a los desastres en relación con el producto interno bruto (PIB) mundial"
-    },
-    {
-      "path": "7-a-1/data.csv",
-      "name": "7-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos"
-    },
-    {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de partos atendidos por personal sanitario especializado"
-    },
-    {
-      "path": "4-a-1/data.csv",
-      "name": "4-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de escuelas que ofrecen servicios básicos, desglosada por tipo de servicio"
-    },
-    {
-      "path": "8-4-1/data.csv",
-      "name": "8-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Huella material en términos absolutos, huella material per cápita y huella material por PIB"
-    },
-    {
-      "path": "3-3-3/data.csv",
-      "name": "3-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Incidencia de la malaria por cada 1.000 habitantes"
-    },
-    {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "End",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1999",
-                "2009",
-                "2017",
-                ""
-              ]
-            },
-            "title": "End"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deaths",
-                "Injuries",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of deaths and injured attributed to disasters reported to state"
-    },
-    {
-      "path": "8-2-1/data.csv",
-      "name": "8-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de crecimiento anual del PIB real por persona empleada"
-    },
-    {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)"
-    },
-    {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón"
-    },
-    {
-      "path": "8-4-2/data.csv",
-      "name": "8-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group A",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Group A",
-                ""
-              ]
-            },
-            "title": "Group A"
-          },
-          {
-            "name": "Group B",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Group B",
-                ""
-              ]
-            },
-            "title": "Group B"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
-    },
-    {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios"
-    },
-    {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
+      "path": "3-6-1/data.csv",
+      "name": "3-6-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2457,7 +3930,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total real gross domestic product in millions of chained 2012 dollars",
+                "Count",
                 ""
               ]
             },
@@ -2465,90 +3938,12 @@
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP in millions of chained 2012 dollars"
-    },
-    {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
             "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total, all occupations",
-                "Management",
-                "Business and financial operations",
-                "Computer and mathematical",
-                "Architecture and engineering",
-                "Life, physical, and social science",
-                "Community and social service",
-                "Legal",
-                "Educational instruction and library",
-                "Arts, design, entertainment, sports, and media",
-                "Healthcare practitioners and technical",
-                "Healthcare support",
-                "Protective service",
-                "Food preparation and serving related",
-                "Building and grounds cleaning and maintenance",
-                "Personal care and service",
-                "Sales and related",
-                "Office and administrative support",
-                "Farming, fishing, and forestry",
-                "Construction and extraction",
-                "Installation, maintenance, and repair",
-                "Production",
-                "Transportation and material moving",
-                ""
-              ]
-            },
-            "title": "Type"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mean hourly wages indollars",
-                ""
-              ]
-            },
-            "title": "Unit"
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
-            "name": "Value",
-            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Mean hourly wages in dollars based on type of occupation - modified"
+      "title": "Death count due to road traffic injuries - modified"
     },
     {
       "path": "6-4-2/data.csv",
@@ -2584,352 +3979,6 @@
         ]
       },
       "title": "Level of water stress recorded as freshwater withdrawal by Auburn University - modified"
-    },
-    {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Intensidad energética medida en función de la energía primaria y el PIB"
-    },
-    {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Auburn",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "End",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "End"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "people that are obese",
-                "people that ever were obese",
-                "people that are overweight",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of malnutrition as overweight and obese - modified"
-    },
-    {
-      "path": "1-5-3/data.csv",
-      "name": "1-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
-    },
-    {
-      "path": "3-3-5/data.csv",
-      "name": "3-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de personas que requieren intervenciones contra enfermedades tropicales desatendidas"
-    },
-    {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of students",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of students in organized learning"
-    },
-    {
-      "path": "6-4-1/data.csv",
-      "name": "6-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Cambio en el uso eficiente de los recursos hídricos con el paso del tiempo"
-    },
-    {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
-    },
-    {
-      "path": "1-a-1/data.csv",
-      "name": "1-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor"
-    },
-    {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años"
     },
     {
       "path": "3-3-1/data.csv",
@@ -2980,1057 +4029,8 @@
       "title": "Number of new HIV infections by race reported at county - modified"
     },
     {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Cobertura de los tratamientos(farmacológicos y psicosociales y servicios de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas"
-    },
-    {
-      "path": "8-b-1/data.csv",
-      "name": "8-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Existencia de una estrategia nacional organizada y en marcha para el empleo de los jóvenes, como estrategia independiente o como parte de una estrategia nacional de empleo"
-    },
-    {
-      "path": "6-b-1/data.csv",
-      "name": "6-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua y el saneamiento"
-    },
-    {
-      "path": "8-5-2/data.csv",
-      "name": "8-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent ",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unemployment rate - modified"
-    },
-    {
-      "path": "8-10-1/data.csv",
-      "name": "8-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Count",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of commercial bank branches"
-    },
-    {
-      "path": "2-1-1/data.csv",
-      "name": "2-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalencia de la subalimentación"
-    },
-    {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Auburn",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "End",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            },
-            "title": "End"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "High school graduate and higher",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Completion rate high school and higher - modified"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de los flujos de aguas residuales domésticas e industriales tratados de manera adecuada"
-    },
-    {
-      "path": "3-b-1/data.csv",
-      "name": "3-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vaccination percent",
-                ""
-              ]
-            },
-            "title": "Status"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of the target population covered by all vaccines included in their national programme reported at state level"
-    },
-    {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
-    },
-    {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Alabama",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent maternal deaths by state",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Maternal mortality ratio - reported on state level"
-    },
-    {
-      "path": "4-b-1/data.csv",
-      "name": "4-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
-    },
-    {
-      "path": "4-3-1/data.csv",
-      "name": "4-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "Race",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Black",
-                "American Indian",
-                "Asian",
-                "Hispanic",
-                ""
-              ]
-            },
-            "title": "Race"
-          },
-          {
-            "name": "Age Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-64",
-                "65 and over",
-                ""
-              ]
-            },
-            "title": "Age Group"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex, age and race"
-    },
-    {
-      "path": "6-3-2/data.csv",
-      "name": "6-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de masas de agua de buena calidad"
-    },
-    {
-      "path": "2-3-2/data.csv",
-      "name": "2-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Gender",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena"
-    },
-    {
-      "path": "8-8-2/data.csv",
-      "name": "8-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Nivel de cumplimiento nacional de los derechos laborales (libertad de asociación y negociación colectiva) con arreglo a las fuentes textuales de la Organización Internacional del Trabajo (OIT) y la legislación interna, desglosado por sexo y estatus migratorio"
-    },
-    {
-      "path": "3-8-2/data.csv",
-      "name": "3-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gastos o ingresos de los hogares"
-    },
-    {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
-    },
-    {
-      "path": "3-c-1/data.csv",
-      "name": "3-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": " Source Years",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2011",
-                "2012",
-                "2013",
-                "2014",
-                "2015",
-                "2016",
-                "2017",
-                "2018",
-                "2019",
-                "2020",
-                ""
-              ]
-            },
-            "title": " Source Years"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Patient to Primary Care Physician Ratio",
-                "Patient to Dentist Ratio",
-                "Patient to Mental Health Provider Ratio",
-                "Other Primary Care Providers",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Densidad y distribución del personal sanitario"
-    },
-    {
-      "path": "3-6-1/data.csv",
-      "name": "3-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Count",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Death count due to road traffic injuries - modified"
-    },
-    {
-      "path": "3-d-2/data.csv",
-      "name": "3-d-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Grade",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Grade"
-          },
-          {
-            "name": "Planet",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mercury",
-                "Venus",
-                "Earth",
-                ""
-              ]
-            },
-            "title": "Planet"
-          },
-          {
-            "name": "Fruit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Apples",
-                "Oranges",
-                "Lemons",
-                ""
-              ]
-            },
-            "title": "Fruit"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de infecciones del torrente sanguíneo debidas a determinados organismos resistentes a los antimicrobianos seleccionados"
-    },
-    {
-      "path": "3-9-2/data.csv",
-      "name": "3-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))"
-    },
-    {
-      "path": "3-d-1/data.csv",
-      "name": "3-d-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación para emergencias de salud"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población que tiene acceso a la electricidad"
-    },
-    {
-      "path": "3-a-1/data.csv",
-      "name": "3-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Coverage",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "State",
-                ""
-              ]
-            },
-            "title": "Coverage"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "High school youth with any tobacco product",
-                "High school youth with cigarette",
-                "Total adults with tobacco",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "High school youth with any use of tobacco products reported at state level"
-    },
-    {
-      "path": "6-6-1/data.csv",
-      "name": "6-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo"
-    },
-    {
-      "path": "2-c-1/data.csv",
-      "name": "2-c-1",
+      "path": "2-5-2/data.csv",
+      "name": "2-5-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4050,7 +4050,7 @@
           }
         ]
       },
-      "title": "Indicador de anomalías en los precios de los alimentos"
+      "title": "Proporción de razas y variedades locales consideradas en riesgo de extinción"
     },
     {
       "path": "8-a-1/data.csv",
@@ -4077,8 +4077,8 @@
       "title": "Compromisos y desembolsos en relación con la iniciativa Ayuda para el Comercio"
     },
     {
-      "path": "2-a-1/data.csv",
-      "name": "2-a-1",
+      "path": "2-b-1/data.csv",
+      "name": "2-b-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4098,7 +4098,7 @@
           }
         ]
       },
-      "title": "Índice de orientación agrícola para el gasto público"
+      "title": "Subsidios a la exportación de productos agropecuarios"
     },
     {
       "path": "2-a-2/data.csv",
@@ -4125,8 +4125,8 @@
       "title": "Total de corrientes oficiales de recursos (asistencia oficial para el desarrollo más otras corrientes oficiales) destinado al sector agrícola"
     },
     {
-      "path": "2-5-2/data.csv",
-      "name": "2-5-2",
+      "path": "2-a-1/data.csv",
+      "name": "2-a-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4146,31 +4146,7 @@
           }
         ]
       },
-      "title": "Proporción de razas y variedades locales consideradas en riesgo de extinción"
-    },
-    {
-      "path": "2-b-1/data.csv",
-      "name": "2-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Subsidios a la exportación de productos agropecuarios"
+      "title": "Índice de orientación agrícola para el gasto público"
     },
     {
       "path": "2-5-1/data.csv",
@@ -4195,6 +4171,30 @@
         ]
       },
       "title": "Número de recursos genéticos vegetales y animales para la alimentación y la agricultura preservados en instalaciones de conservación a medio y largo plazo"
+    },
+    {
+      "path": "2-c-1/data.csv",
+      "name": "2-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indicador de anomalías en los precios de los alimentos"
     }
   ]
 }

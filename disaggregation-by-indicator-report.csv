@@ -6,8 +6,8 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-2,Group,1
 #1-5-1,End,1
 #1-5-2,End,1
-#2-2-2,"End, Coverage",2
-#2-2-3,"End, Coverage",2
+#2-2-2,"Coverage, End",2
+#2-2-3,"Coverage, End",2
 #3-1-1,Coverage,1
 #3-2-1,"Coverage, Race",2
 #3-2-2,Group,1
@@ -22,7 +22,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-a-1,Coverage,1
 #3-b-1,Status,1
 #4-1-1,Grade Level,1
-#4-1-2,"End, Coverage",2
+#4-1-2,"Coverage, End",2
 #4-3-1,"Gender, Race, Age Group",3
 #4-6-1,End,1
 #4-c-1,Group,1
